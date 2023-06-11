@@ -21,7 +21,9 @@ from photography import views
 urlpatterns = [
     path("admin", admin.site.urls),
     path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
-    path('members/', views.members, name='members'),
+    path('login/', views.login, name='login'),
+    path('home/', views.home, name='home'),
+    path('signup/', views.sign_up, name='signup'),
 ]
     # path("admin", admin.site.urls),
     # path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
