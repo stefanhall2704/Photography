@@ -39,7 +39,11 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "photography",
     "oauth2_provider",
-    "corsheaders"
+    "corsheaders",
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
+    'allauth.socialaccount.providers.google',
 ]
 
 MIDDLEWARE = [
@@ -60,6 +64,17 @@ LOGIN_URL='/admin/login/'
 AUTH_USER_MODEL='photography.User'
 
 ROOT_URLCONF = "hallsPhotography.urls"
+
+SOCIALACCOUNT_PROVIDERS = {
+    'google': {
+        'APP': {
+            'client_id': 'YOUR_GOOGLE_CLIENT_ID',
+            'secret': 'YOUR_GOOGLE_CLIENT_SECRET',
+            'key': '',
+        }
+    }
+}
+
 
 TEMPLATES = [
     {

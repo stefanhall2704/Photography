@@ -22,8 +22,10 @@ urlpatterns = [
     path("admin", admin.site.urls),
     path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
     path('login/', views.login, name='login'),
-    path('home/', views.home, name='home'),
+    path('profile/', views.profile, name='profile'),
     path('signup/', views.sign_up, name='signup'),
+    path('accounts/', include('allauth.urls')),
+    path('', views.home, name='home'),
 ]
     # path("admin", admin.site.urls),
     # path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),

@@ -1,13 +1,32 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<style>
+    .navbar-center {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+  
+    .gradient-custom {
+      /* fallback for old browsers */
+      background: #6a11cb;
+  
+      /* Chrome 10-25, Safari 5.1-6 */
+      background: -webkit-linear-gradient(to right, #e36414, #fb8b24, #9a031e);
+  
+      /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      background: linear-gradient(to right, #e36414, #fb8b24, #9a031e)
+    }
+  </style>
+  <nav class="navbar navbar-expand-lg navbar-light gradient-custom fixed-top">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Halls Photgraphy</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <div class="collapse navbar-collapse mx-auto" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="/">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Features</a>
@@ -15,23 +34,37 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Packages</a>
           </li>
+          {% if user %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Settings
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Hi, {{ user.first_name }}
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <!-- <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li> -->
-            <li>
+              <li>
                 <form action="" method="POST">
-                    {% csrf_token %}
-                    <input class="dropdown-item" type="submit" value="Logout">
+                  {% csrf_token %}
+                  <input class="dropdown-item" type="submit" value="Logout">
                 </form>
-            </li>
+              </li>
             </ul>
           </li>
+          {% else %}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Account Options
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li><a class="dropdown-item" href="/login">Login</a></li>
+              <li><a class="dropdown-item" href="/signup">Sign Up</a></li>
+            </ul>
+          </li>
+          {% endif %}
         </ul>
+        <a class="navbar-brand navbar-center" {% if user %}href="/profile"{% else %} href="/login"{% endif %}><h3>Halls
+            Photography</h3></a>
       </div>
     </div>
   </nav>
+  
