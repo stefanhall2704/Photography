@@ -26,6 +26,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.3.1/mdb.min.js"
         .gradient-custom {
             /* fallback for old browsers */
             background: #6a11cb;
+            height: 900px;
             
             /* Chrome 10-25, Safari 5.1-6 */
             background: -webkit-linear-gradient(to right,  #e36414, #fb8b24, #9a031e);
@@ -41,7 +42,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.3.1/mdb.min.js"
               
     </style>
 <body>
-    <section class="vh-125 gradient-custom">
+    <section class="gradient-custom">
         <div class="container py-5 h-100">
           <div class="row d-flex justify-content-center align-items-center h-100">
             <div class="col-12 col-md-8 col-lg-6 col-xl-5">
@@ -55,7 +56,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.3.1/mdb.min.js"
                     <form action="" method="POST" autocomplete="off">
                         {% csrf_token %}
                         <div class="form-outline">
-                          <label class="form-label text-white-50" for="typeEmailX">Email</label>
+                          <label class="form-label text-white-50" for="typeEmailX">Username</label>
                           <input type="text" name="username" id="typeEmailX" class="form-control form-control-lg bg-white" />
                         </div>
                       

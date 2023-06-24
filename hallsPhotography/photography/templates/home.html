@@ -35,7 +35,6 @@
   <style>
     body {
       font-family: 'Roboto', sans-serif;
-      background-color: #f8f8f8;
     }
 
     .package-container {
@@ -55,13 +54,14 @@
 
     .package-card .card-header {
       background-color: #e36414;
-      color: white;
+      color: black;
       border-radius: 0;
       padding: 20px;
     }
 
     .package-card .card-body {
       padding: 20px;
+      background-color: #fff3b0;
     }
 
     .package-card h5 {
@@ -94,8 +94,11 @@
     }
     body {
         padding-top: 70px;
-        background-color: #5f0f40;
+        background-color: #9a031e;
       }
+    .description {
+      color: black;
+    }
   </style>
 </head>
 
@@ -112,13 +115,13 @@
           </div>
           <div class="card-body">
             <img src="https://i.imgur.com/cNHWZNp.png" alt="Example Photo" class="example-photo">
-            <p>Description:</p>
-            <ul>
+            <p class="description">Description:</p>
+            <ul class="description">
                 <li>5 Photos: 10x7</li>
                 <li>8 Photos: 4x7</li>
                 <li>10 Photos: 2.5x3.5</li>
             </ul>
-            <p>Price: $449</p>
+            <p class="description">Price: $449</p>
             <button class="btn btn-primary">Buy Now</button>
           </div>
         </div>

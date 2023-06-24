@@ -5,6 +5,10 @@
       top: 50%;
       transform: translate(-50%, -50%);
     }
+    .dropdown:hover .dropdown-menu {
+      display: block;
+    }
+    
   
     .gradient-custom {
       /* fallback for old browsers */
@@ -17,6 +21,18 @@
       background: linear-gradient(to right, #e36414, #fb8b24, #9a031e)
     }
   </style>
+  <script>
+    var dropdown = document.querySelector('.dropdown');
+    var dropdownMenu = document.querySelector('.dropdown-menu');
+    
+    dropdown.addEventListener('mouseenter', function() {
+      dropdownMenu.style.display = 'block';
+    });
+    
+    dropdown.addEventListener('mouseleave', function() {
+      dropdownMenu.style.display = 'none';
+    });
+  </script>
   <nav class="navbar navbar-expand-lg navbar-light gradient-custom fixed-top">
     <div class="container-fluid">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
@@ -28,11 +44,26 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="/">Home</a>
           </li>
+          {% if user %}
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="/profile">Profile</a>
           </li>
+          {% endif %}
           <li class="nav-item">
             <a class="nav-link" href="#">Packages</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Portfolio
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li><a class="dropdown-item" href="#">Weddings</a></li>
+              <li><a class="dropdown-item" href="#">Bridals</a></li>
+              <li><a class="dropdown-item" href="#">Engagements</a></li>
+              <li><a class="dropdown-item" href="#">Families</a></li>
+              <li><a class="dropdown-item" href="#">Headshots</a></li>
+            </ul>
           </li>
           {% if user %}
           <li class="nav-item dropdown">
@@ -62,7 +93,7 @@
           </li>
           {% endif %}
         </ul>
-        <a class="navbar-brand navbar-center" {% if user %}href="/profile"{% else %} href="/login"{% endif %}><h3>Halls
+        <a class="navbar-brand navbar-center" {% if user %}href="/profile"{% else %} href="/login"{% endif %}><h3>Hall's
             Photography</h3></a>
       </div>
     </div>
