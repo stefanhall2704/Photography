@@ -2,7 +2,8 @@ import boto3
 import tempfile
 import os
 import time
-from django.http import FileResponse
+from django.http import HttpResponse
+
 
 
 class S3Storage:
@@ -21,12 +22,11 @@ class S3Storage:
             Bucket=self.bucket,
             Key=self.file_name
         )
-        file = file_obj.get("Body").read()  # Read the contents of the StreamingBody object
-        response = FileResponse(file)
-        response["Content-Disposition"] = f'attachment; filename="{self.file_name}"'
+        file_data = file_obj['Body'].read()
+
+        response = HttpResponse(content_type='application/octet-stream')
+        response['Content-Disposition'] = f'attachment; filename="{self.file_name}"'
+        response.write(file_data)
+
         return response
 
-
-download = S3Storage("new_test.jpg", "portfoliophotographs")
-temp_file_path = download.download_file()
-print(temp_file_path)

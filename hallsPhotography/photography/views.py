@@ -4,6 +4,9 @@ from django.contrib.auth import logout, get_user_model
 from django.shortcuts import render
 from .authenticate_user import *
 from django.views.decorators.csrf import csrf_protect
+from photography.s3 import S3Storage
+from rest_framework.decorators import api_view
+from django.views.decorators.csrf import csrf_exempt
 
 def home(request):
     if request.method == "POST":
@@ -31,6 +34,20 @@ def login(request):
         return redirect("profile")
     else:
         return render(request, 'login.html')
+
+def download(request):
+    if request.user.is_authenticated:
+        if request.method == "GET":
+            return render(request, "download_file.html")
+        elif request.method == "POST":
+            file_name = "new_test.jpg"
+            bucket = "portfoliophotographs"
+            s3_file = S3Storage(file_name=file_name, bucket=bucket)
+            return s3_file.download_file()
+    return redirect("login")
+
+
+
 
 def sign_up(request):
     if request.method == "POST":
