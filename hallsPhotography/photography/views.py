@@ -5,6 +5,9 @@ from .authenticate_user import *
 from photography.s3 import S3Storage
 from rest_framework.decorators import api_view
 import tempfile
+from django.http import JsonResponse
+from photography.dependencies import get_database
+from photography.crud.package import create_database_package
 
 def home(request):
     if request.method == "POST":
@@ -94,3 +97,24 @@ def profile(request):
         return render(request, 'main.html', context={"request": request, "user": user})
     else:
         return redirect("login")
+
+@csrf_exempt
+def create_package(request):
+    if request.method == 'POST':
+        name = request.POST.get('name')
+        time_frame = request.POST.get('time_frame')
+        price = float(request.POST.get('price'))
+
+        # Get a database session
+        database = get_database()
+
+        # Create the database package
+        database_package = create_database_package(database, name, time_frame, price)
+
+        return JsonResponse({
+            'name': database_package.name,
+            'time_frame': database_package.time_frame,
+            'price': database_package.price
+        })
+    else:
+        return render(request, 'create_package.html')
