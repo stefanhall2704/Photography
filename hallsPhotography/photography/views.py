@@ -1,22 +1,20 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth import logout, get_user_model
-# Create your views here.
-from django.shortcuts import render
+from django.views.decorators.csrf import csrf_protect, csrf_exempt
 from .authenticate_user import *
-from django.views.decorators.csrf import csrf_protect
 from photography.s3 import S3Storage
 from rest_framework.decorators import api_view
-from django.views.decorators.csrf import csrf_exempt
+import tempfile
 
 def home(request):
     if request.method == "POST":
         logout(request)
         return redirect("home")
+    
     user = False
     if request.user.is_authenticated:
-        username = request.user
         User = get_user_model()
-        user = User.objects.get(username=username)
+        user = User.objects.get(username=request.user)
         
     return render(request, 'home.html', context={
         "request": request,
@@ -30,10 +28,30 @@ def login(request):
             "password": request.POST["password"],
         }
         authetnicate_user(request, user_object)
+    
     if request.user.is_authenticated:
         return redirect("profile")
     else:
         return render(request, 'login.html')
+
+def upload(request):
+    if request.user.is_authenticated:
+        if request.method == "GET":
+            return render(request, "upload_file.html")
+        elif request.method == "POST":
+            if 'upload' in request.FILES:
+                file = request.FILES['upload']
+                s3_storage = S3Storage(file.name, 'portfoliophotographs')
+                
+                with tempfile.NamedTemporaryFile() as temp_file:
+                    for chunk in file.chunks():
+                        temp_file.write(chunk)
+                    temp_file.flush()
+                    
+                    s3_storage.upload_file(temp_file.name)
+                
+                return render(request, "success.html")
+    return render(request, 'login.html')
 
 def download(request):
     if request.user.is_authenticated:
@@ -46,9 +64,6 @@ def download(request):
             return s3_file.download_file()
     return redirect("login")
 
-
-
-
 def sign_up(request):
     if request.method == "POST":
         user_object = {
@@ -59,7 +74,7 @@ def sign_up(request):
             "last_name": request.POST["last_name"]
         }
         db_sign_up(user_object)
-        authetnicate_user(request, user_object)
+        authenticate_user(request, user_object)
         
     if request.user.is_authenticated:
         return redirect("profile")
@@ -68,12 +83,13 @@ def sign_up(request):
 
 @csrf_protect
 def profile(request):
-    username = request.user
-    User = get_user_model()
-    user = User.objects.get(username=username)
     if request.method == "POST":
         logout(request)
         return redirect("home")
+    
+    User = get_user_model()
+    user = User.objects.get(username=request.user)
+    
     if request.user.is_authenticated:
         return render(request, 'main.html', context={"request": request, "user": user})
     else:

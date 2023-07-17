@@ -27,6 +27,7 @@ urlpatterns = [
     path('accounts/', include('allauth.urls')),
     path('', views.home, name='home'),
     path('download/', views.download, name='download'),
+    path('upload/', views.upload, name='upload'),
 ]
     # path("admin", admin.site.urls),
     # path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
