@@ -110,11 +110,7 @@ def create_package(request):
             database_package = create_database_package(database, name, time_frame, price)
             file = request.FILES['upload']
             s3_storage = S3Storage(file.name, 'packagephotos')
-            with tempfile.NamedTemporaryFile() as temp_file:
-                for chunk in file.chunks():
-                    temp_file.write(chunk)
-                temp_file.flush()
-                s3_storage.upload_file(temp_file.name)
+            s3_storage.upload_file(file)
 
             return JsonResponse({
                 'name': database_package.name,

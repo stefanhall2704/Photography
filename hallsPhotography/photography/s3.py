@@ -13,9 +13,12 @@ class S3Storage:
         self.file_name = file_name
         self.bucket = bucket
         
-    def upload_file(self, file_path: str):
-        # TODO: Add to database table with file name and bucket name
-        self.client.upload_file(file_path, self.bucket, self.file_name)
+    def upload_file(self, file: str):
+        with tempfile.NamedTemporaryFile() as temp_file:
+            for chunk in file.chunks():
+                temp_file.write(chunk)
+            temp_file.flush()
+            self.client.upload_file(temp_file.name, self.bucket, self.file_name)
 
     def download_file(self):
         file_obj = self.client.get_object(
