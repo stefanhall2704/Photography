@@ -39,21 +39,16 @@ def login(request):
 
 def upload(request):
     if request.user.is_authenticated:
-        if request.method == "GET":
-            return render(request, "upload_file.html")
-        elif request.method == "POST":
-            if 'upload' in request.FILES:
-                file = request.FILES['upload']
-                s3_storage = S3Storage(file.name, 'portfoliophotographs')
-                
-                with tempfile.NamedTemporaryFile() as temp_file:
-                    for chunk in file.chunks():
-                        temp_file.write(chunk)
-                    temp_file.flush()
-                    
-                    s3_storage.upload_file(temp_file.name)
-                
-                return render(request, "success.html")
+        if request.method == "POST" and 'upload' in request.FILES:
+            file = request.FILES['upload']
+            s3_storage = S3Storage(file.name, 'packagephotos')
+            with tempfile.NamedTemporaryFile() as temp_file:
+                for chunk in file.chunks():
+                    temp_file.write(chunk)
+                temp_file.flush()
+                s3_storage.upload_file(temp_file.name)
+            return redirect("upload")
+        return render(request, "upload_file.html")
     return render(request, 'login.html')
 
 def download(request):
@@ -61,7 +56,7 @@ def download(request):
         if request.method == "GET":
             return render(request, "download_file.html")
         elif request.method == "POST":
-            file_name = "new_test.jpg"
+            file_name = "Jira.csv"
             bucket = "portfoliophotographs"
             s3_file = S3Storage(file_name=file_name, bucket=bucket)
             return s3_file.download_file()
@@ -98,23 +93,37 @@ def profile(request):
     else:
         return redirect("login")
 
-@csrf_exempt
+
 def create_package(request):
-    if request.method == 'POST':
-        name = request.POST.get('name')
-        time_frame = request.POST.get('time_frame')
-        price = float(request.POST.get('price'))
+    if request.user.is_authenticated:
+        User = get_user_model()
+        user = User.objects.get(username=request.user)
+        if request.method == 'POST':
+            name = request.POST.get('name')
+            time_frame = request.POST.get('time_frame')
+            price = float(request.POST.get('price'))
 
-        # Get a database session
-        database = get_database()
+            # Get a database session
+            database = get_database()
 
-        # Create the database package
-        database_package = create_database_package(database, name, time_frame, price)
+            # Create the database package
+            database_package = create_database_package(database, name, time_frame, price)
+            file = request.FILES['upload']
+            s3_storage = S3Storage(file.name, 'packagephotos')
+            with tempfile.NamedTemporaryFile() as temp_file:
+                for chunk in file.chunks():
+                    temp_file.write(chunk)
+                temp_file.flush()
+                s3_storage.upload_file(temp_file.name)
 
-        return JsonResponse({
-            'name': database_package.name,
-            'time_frame': database_package.time_frame,
-            'price': database_package.price
-        })
-    else:
-        return render(request, 'create_package.html')
+            return JsonResponse({
+                'name': database_package.name,
+                'time_frame': database_package.time_frame,
+                'price': database_package.price
+            })
+        else:
+            return render(request, 'create_package.html', context={
+                "request": request,
+                "user": user
+            })
+    return redirect('login')
