@@ -110,6 +110,7 @@
                     </div>
                     <div class="card-body">
                       <form id="create-package-form">
+                        <input type="hidden" name="form_type" value="create_package">
                           <label for="name">Name:</label><br>
                           <input type="text" id="name" class="form-control form-control-lg" name="name" placeholder="Ex. Christmas Package" required><br>
                   
@@ -156,9 +157,9 @@
             xhr.onreadystatechange = function() {
                 if (xhr.readyState === 4) {
                     if (xhr.status === 200) {
-                      window.location = "/";
                         var response = JSON.parse(xhr.responseText);
                         document.getElementById('response').innerText = 'Package created';
+                        window.location.href = '/';
                     } else {
                         document.getElementById('response').innerText = 'Error: ' + xhr.responseText;
                     }

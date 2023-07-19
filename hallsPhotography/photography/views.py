@@ -30,7 +30,7 @@ def login_required(view_func):
 def packages(request):
     if request.method == "POST":
         logout(request)
-        return redirect("packages")
+        return redirect("login")
 
     user = False
 
@@ -40,7 +40,6 @@ def packages(request):
     database_packages = get_all_database_packages(database=database)
     for package in database_packages:
         if package.file_name:
-            # init_photo = S3Storage("packagephotos", package.file_name)
             init_photo = S3Storage(bucket="packagephotos", file_name=package.file_name)
             package.photo = init_photo.get_photo()
 
@@ -131,29 +130,45 @@ def create_package(request):
     User = get_user_model()
     user = User.objects.get(username=request.user)
     if request.method == "POST":
-        name = request.POST.get("name")
-        time_frame = request.POST.get("time_frame")
-        price = float(request.POST.get("price"))
-        file = request.FILES["upload"]
-        file_name = file.name
+        if "logout" in request.POST:
+            logout(request)
+            return redirect("login")
 
-        # Get a database session
-        database = get_database()
+        if (
+            "form_type" in request.POST
+            and request.POST["form_type"] == "create_package"
+        ):
+            name = request.POST.get("name")
+            time_frame = request.POST.get("time_frame")
+            price = request.POST.get("price")
 
-        # Create the database package
-        database_package = create_database_package(
-            database, name, time_frame, price, file_name
-        )
-        s3_storage = S3Storage(file_name, "packagephotos")
-        s3_storage.upload_file(file)
+            if price is not None and price.strip():
+                try:
+                    price = float(price)
+                except ValueError:
+                    return HttpResponse("Invalid price value")
 
-        return JsonResponse(
-            {
-                "name": database_package.name,
-                "time_frame": database_package.time_frame,
-                "price": database_package.price,
-            }
-        )
+                file = request.FILES["upload"]
+                file_name = file.name
+
+                # Get a database session
+                database = get_database()
+
+                # Create the database package
+                database_package = create_database_package(
+                    database, name, time_frame, price, file_name
+                )
+                s3_storage = S3Storage(file_name, "packagephotos")
+                s3_storage.upload_file(file)
+
+                return JsonResponse(
+                    {
+                        "name": database_package.name,
+                        "time_frame": database_package.time_frame,
+                        "price": database_package.price,
+                    }
+                )
+
     return render(
         request,
         "create_package.html",
