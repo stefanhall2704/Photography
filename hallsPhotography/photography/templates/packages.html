@@ -118,7 +118,7 @@
                 <img src={{ package.photo }} alt={{ package.file_name }} class="photo">
                 <p class="description">Price: ${{ package.price }}</p>
                 <p class="description">Time Frame: {{ package.time_frame }}</p>
-                <button class="btn btn-primary">Buy Now</button>
+                <button class="btn btn-primary" package-id={{ package.ID }}>Buy Now</button>
               </div>
             </div>
           {% endif %}

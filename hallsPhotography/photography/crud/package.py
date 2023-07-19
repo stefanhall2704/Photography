@@ -17,3 +17,17 @@ def create_database_package(
 
 def get_all_database_packages(database: Session):
     return database.query(models.Package).all()
+
+
+def get_db_package_by_package_id(database: Session, package_id: int):
+    return (
+        database.query(models.Package).filter(models.Package.ID == package_id).first()
+    )
+
+
+def delete_db_package_by_package_id(database: Session, package_id: int):
+    database_package = get_db_package_by_package_id(
+        database=database, package_id=package_id
+    )
+    database.delete(database_package)
+    database.commit()
