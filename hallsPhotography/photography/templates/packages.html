@@ -74,7 +74,7 @@
       margin-bottom: 10px;
     }
 
-    .package-card .example-photo {
+    .package-card .photo {
       max-width: 100%;
       height: auto;
     }
@@ -104,28 +104,25 @@
 
 <body class="lora-font">
   {% include "navbar.html" %}
-
   <div class="container package-container">
     <div class="row justify-content-center">
       <div class="col-md-8">
         <!-- Photo packages -->
-        <div class="card mb-4 package-card">
-          <div class="card-header">
-            <h5>Family Package</h5>
-          </div>
-          <div class="card-body">
-            <img src="https://i.imgur.com/cNHWZNp.png" alt="Example Photo" class="example-photo">
-            <p class="description">Description:</p>
-            <ul class="description">
-                <li>5 Photos: 10x7</li>
-                <li>8 Photos: 4x7</li>
-                <li>10 Photos: 2.5x3.5</li>
-            </ul>
-            <p class="description">Price: $449</p>
-            <button class="btn btn-primary">Buy Now</button>
-          </div>
-        </div>
-
+        {% for package in packages %}
+          {% if package.file_name %}
+            <div class="card mb-4 package-card">
+              <div class="card-header">
+                <h5>{{ package.name }}</h5>
+              </div>
+              <div class="card-body">
+                <img src={{ package.photo }} alt={{ package.file_name }} class="photo">
+                <p class="description">Price: ${{ package.price }}</p>
+                <p class="description">Time Frame: {{ package.time_frame }}</p>
+                <button class="btn btn-primary">Buy Now</button>
+              </div>
+            </div>
+          {% endif %}
+        {% endfor %}
         <!-- More packages can be dynamically added here using a loop or by fetching data from the database -->
       </div>
     </div>

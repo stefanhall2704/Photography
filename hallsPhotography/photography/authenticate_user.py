@@ -9,7 +9,7 @@ project_directory = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_directory)
 
 # Replace 'hallsPhotography' with your actual project name
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hallsPhotography.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "hallsPhotography.settings")
 django.setup()
 
 
@@ -22,7 +22,6 @@ def authetnicate_user(request, user):
         print("Authentication successful")
     else:
         print("Authentication failed")
-
 
 
 # from django.contrib.auth.models import User

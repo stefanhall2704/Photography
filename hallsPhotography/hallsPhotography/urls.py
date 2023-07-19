@@ -20,16 +20,16 @@ from photography import views
 
 urlpatterns = [
     path("admin", admin.site.urls),
-    path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
-    path('login/', views.login, name='login'),
-    path('profile/', views.profile, name='profile'),
-    path('signup/', views.sign_up, name='signup'),
-    path('accounts/', include('allauth.urls')),
-    path('', views.home, name='home'),
-    path('download/', views.download, name='download'),
-    path('upload/', views.upload, name='upload'),
-    path('packages/create/', views.create_package, name='create_package')
+    path("o/", include("oauth2_provider.urls", namespace="oauth2_provider")),
+    path("login/", views.login, name="login"),
+    path("profile/", views.profile, name="profile"),
+    path("signup/", views.sign_up, name="signup"),
+    path("accounts/", include("allauth.urls")),
+    path("", views.packages, name="packages"),
+    path("download/", views.download, name="download"),
+    path("upload/", views.upload, name="upload"),
+    path("packages/create/", views.create_package, name="create_package"),
 ]
-    # path("admin", admin.site.urls),
-    # path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
-    # path('download_view/', views.download, name='download'),
+# path("admin", admin.site.urls),
+# path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
+# path('download_view/', views.download, name='download'),
