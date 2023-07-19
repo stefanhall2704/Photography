@@ -15,6 +15,7 @@ class Package(Base):
     name = sa.Column(sa.String(100), nullable=False, name="Name")
     time_frame = sa.Column(sa.String(50), nullable=False, name="TimeFrame")
     price = sa.Column(sa.Float, nullable=False, name="Price")
+    file_name = sa.Column(sa.String(200), nullable=False, name="FileName")
     
 class PortfolioPhotograph(Base):
     __tablename__ = "PortfolioPhotograph"

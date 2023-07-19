@@ -77,6 +77,9 @@
                   {% csrf_token %}
                   <input class="dropdown-item" type="submit" value="Logout">
                 </form>
+                {% if user.id == 1 or user.id == 2 %}
+                  <li><a class="dropdown-item" href="/packages/create/">Create Package</a></li>
+                {% endif %}
               </li>
             </ul>
           </li>

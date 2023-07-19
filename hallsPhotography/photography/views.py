@@ -102,14 +102,15 @@ def create_package(request):
             name = request.POST.get('name')
             time_frame = request.POST.get('time_frame')
             price = float(request.POST.get('price'))
-
+            file = request.FILES['upload']
+            file_name = file.name
+            
             # Get a database session
             database = get_database()
 
             # Create the database package
-            database_package = create_database_package(database, name, time_frame, price)
-            file = request.FILES['upload']
-            s3_storage = S3Storage(file.name, 'packagephotos')
+            database_package = create_database_package(database, name, time_frame, price, file_name)
+            s3_storage = S3Storage(file_name, 'packagephotos')
             s3_storage.upload_file(file)
 
             return JsonResponse({
