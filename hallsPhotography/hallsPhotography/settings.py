@@ -40,10 +40,10 @@ INSTALLED_APPS = [
     "photography",
     "oauth2_provider",
     "corsheaders",
-    'allauth',
-    'allauth.account',
-    'allauth.socialaccount',
-    'allauth.socialaccount.providers.google'
+    "allauth",
+    "allauth.account",
+    "allauth.socialaccount",
+    "allauth.socialaccount.providers.google",
 ]
 
 MIDDLEWARE = [
@@ -59,18 +59,18 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_ALLOW_ALL = True
 
-LOGIN_URL='/admin/login/'
+LOGIN_URL = "/admin/login/"
 
-AUTH_USER_MODEL='photography.User'
+AUTH_USER_MODEL = "photography.User"
 
 ROOT_URLCONF = "hallsPhotography.urls"
 
 SOCIALACCOUNT_PROVIDERS = {
-    'google': {
-        'APP': {
-            'client_id': 'YOUR_GOOGLE_CLIENT_ID',
-            'secret': 'YOUR_GOOGLE_CLIENT_SECRET',
-            'key': '',
+    "google": {
+        "APP": {
+            "client_id": "YOUR_GOOGLE_CLIENT_ID",
+            "secret": "YOUR_GOOGLE_CLIENT_SECRET",
+            "key": "",
         }
     }
 }

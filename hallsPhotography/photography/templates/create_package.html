@@ -100,37 +100,37 @@
     </style>
   </head>
     {% if user.id == 1 or user.id == 2 %}
-    <div class="container package-container">
-        <div class="row justify-content-center">
-          <div class="col-md-8">
-            <!-- Photo packages -->
-            <div class="card mb-4 package-card">
-              <div class="card-header">
-                <h5>Create Package</h5>
-              </div>
-              <div class="card-body">
-                <form id="create-package-form">
-                    <label for="name">Name:</label><br>
-                    <input type="text" id="name" class="form-control form-control-lg" name="name" placeholder="Ex. Christmas Package" required><br>
-            
-                    <label for="time_frame">Time Frame:</label><br>
-                    <input type="text" id="time_frame" class="form-control form-control-lg" name="time_frame" placeholder="Ex. 3-4 hours" required><br>
-            
-                    <label for="price">Price:</label><br>
-                    <input type="number" step="0.01" id="price" class="form-control form-control-lg" name="price" placeholder="100.00" required><br>
+          <div class="container package-container">
+              <div class="row justify-content-center">
+                <div class="col-md-8">
+                  <!-- Photo packages -->
+                  <div class="card mb-4 package-card">
+                    <div class="card-header">
+                      <h5>Create Package</h5>
+                    </div>
+                    <div class="card-body">
+                      <form id="create-package-form">
+                          <label for="name">Name:</label><br>
+                          <input type="text" id="name" class="form-control form-control-lg" name="name" placeholder="Ex. Christmas Package" required><br>
+                  
+                          <label for="time_frame">Time Frame:</label><br>
+                          <input type="text" id="time_frame" class="form-control form-control-lg" name="time_frame" placeholder="Ex. 3-4 hours" required><br>
+                  
+                          <label for="price">Price:</label><br>
+                          <input type="number" step="0.01" id="price" class="form-control form-control-lg" name="price" placeholder="100.00" required><br>
 
-                    <label for="price">Photograph Package Image Example:</label><br>
-                    <input type="file" name="upload" id="uploadType" class="form-control form-control-lg" required/><br>
+                          <label for="price">Photograph Package Image Example:</label><br>
+                          <input type="file" name="upload" id="uploadType" class="form-control form-control-lg" required/><br>
 
-                    <input class="btn btn-primary" type="submit" value="Upload">
-                </form>
+                          <input class="btn btn-primary" type="submit" value="Upload">
+                      </form>
+                    </div>
+                  </div>
+          
+                  <!-- More packages can be dynamically added here using a loop or by fetching data from the database -->
+                </div>
               </div>
             </div>
-    
-            <!-- More packages can be dynamically added here using a loop or by fetching data from the database -->
-          </div>
-        </div>
-      </div>
       {% else %}
       <div class="container d-flex align-items-center justify-content-center" style="background-color: #fff3b0; padding: 20px; border-radius: 10px;">
           <div>
