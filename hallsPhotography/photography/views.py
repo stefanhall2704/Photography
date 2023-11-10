@@ -1,3 +1,5 @@
+import datetime
+import calendar
 from django.shortcuts import render, redirect
 from django.contrib.auth import logout, get_user_model
 from django.views.decorators.csrf import csrf_protect, csrf_exempt
@@ -173,4 +175,27 @@ def create_package(request):
         request,
         "create_package.html",
         context={"request": request, "user": user},
+    )
+
+@login_required
+def schedule_session(request, year: int = datetime.date.today().year, month: int = datetime.date.today().month):
+    User = get_user_model()
+    user = User.objects.get(username=request.user)
+    if request.method == "POST":
+        if "logout" in request.POST:
+            logout(request)
+            return redirect("login")
+    text_cal = calendar.HTMLCalendar(firstweekday = 6)
+    current_date = datetime.date.today()
+
+    current_year = current_date.year
+    current_month = current_date.month
+    if current_year == year and current_month == month:
+        day = current_date.day
+    else:
+        day = 0
+    return render(
+        request,
+        "calendar.html",
+        context={"request": request, "user": user, "calendar":text_cal.formatmonth(year, month), "day": day, "month": month, "year": year},
     )

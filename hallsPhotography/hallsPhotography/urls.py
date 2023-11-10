@@ -30,6 +30,8 @@ urlpatterns = [
     path("download/", views.download, name="download"),
     path("upload/", views.upload, name="upload"),
     path("packages/create/", views.create_package, name="create_package"),
+    path("schedule/", views.schedule_session, name="schedule_session"),
+    path("schedule/<int:year>/<int:month>", views.schedule_session, name="schedule_session"),
 ]
 # path("admin", admin.site.urls),
 # path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
