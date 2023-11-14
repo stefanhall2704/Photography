@@ -1,0 +1,4814 @@
+
+{
+ "kind": "calendar#events",
+ "etag": "\"p33cfvhcumn1840o\"",
+ "summary": "stefhall.2704@gmail.com",
+ "description": "",
+ "updated": "2023-11-14T02:13:07.159Z",
+ "timeZone": "America/New_York",
+ "accessRole": "owner",
+ "defaultReminders": [
+  {
+   "method": "popup",
+   "minutes": 30
+  }
+ ],
+ "nextSyncToken": "CNj_xZ61woIDENj_xZ61woIDGAUglr60lAIolr60lAI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"2865700866062000\"",
+   "id": "isdqpbd9jd2a2c6u699d6sfvjo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aXNkcXBiZDlqZDJhMmM2dTY5OWQ2c2Z2am8gc3RlZmhhbGwuMjcwNEBt",
+   "created": "2015-05-28T22:00:33.000Z",
+   "updated": "2015-05-28T22:00:33.031Z",
+   "description": "Hey what yall doin? Wonderin if philip could come and help him with cutting the catalytic converter off the car and shit this evening??",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-05-28T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2015-05-28T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "isdqpbd9jd2a2c6u699d6sfvjo@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231940706000\"",
+   "id": "c4p38cb5coqjeb9p6osm4b9k6di3gbb164p6cb9h60q3ap1p6kp36d9jcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRwMzhjYjVjb3FqZWI5cDZvc200YjlrNmRpM2diYjE2NHA2Y2I5aDYwcTNhcDFwNmtwMzZkOWpjZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:09.000Z",
+   "updated": "2017-01-11T06:26:10.353Z",
+   "summary": "Meeting with VP",
+   "location": "The Office",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T04:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c4p38cb5coqjeb9p6osm4b9k6di3gbb164p6cb9h60q3ap1p6kp36d9jcg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231941600000\"",
+   "id": "c4rjgd1ic9i34b9m6kp34b9kcoqj8b9oc8pjgb9n6oom6dpk6ti3aphicc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRyamdkMWljOWkzNGI5bTZrcDM0YjlrY29xajhiOW9jOHBqZ2I5bjZvb202ZHBrNnRpM2FwaGljYyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:10.000Z",
+   "updated": "2017-01-11T06:26:10.800Z",
+   "summary": "Concert",
+   "location": "Downtown",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T14:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T15:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c4rjgd1ic9i34b9m6kp34b9kcoqj8b9oc8pjgb9n6oom6dpk6ti3aphicc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231942628000\"",
+   "id": "6ko38dr1cco32bb3ckp38b9k6di30b9o70sj2bb4ccs62ohoc5i3gcb574",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmtvMzhkcjFjY28zMmJiM2NrcDM4YjlrNmRpMzBiOW83MHNqMmJiNGNjczYyb2hvYzVpM2djYjU3NCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:11.000Z",
+   "updated": "2017-01-11T06:26:11.314Z",
+   "summary": "Branding Meeting",
+   "location": "Conference Room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T08:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T09:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6ko38dr1cco32bb3ckp38b9k6di30b9o70sj2bb4ccs62ohoc5i3gcb574@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231945770000\"",
+   "id": "70q3aohn68pjabb2cgqm2b9k6gqj6bb26lh3ib9k71gjgchncoo3apb268",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBxM2FvaG42OHBqYWJiMmNncW0yYjlrNmdxajZiYjI2bGgzaWI5azcxZ2pnY2huY29vM2FwYjI2OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:12.000Z",
+   "updated": "2017-01-11T06:26:12.885Z",
+   "summary": "Yoga",
+   "location": "Stretching It!",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T02:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T03:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "70q3aohn68pjabb2cgqm2b9k6gqj6bb26lh3ib9k71gjgchncoo3apb268@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231946660000\"",
+   "id": "6kqm8ohm74om2bb264q3eb9k64p32bb26oqm6b9pc5im6d9m71im2p9hcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmtxbThvaG03NG9tMmJiMjY0cTNlYjlrNjRwMzJiYjI2b3FtNmI5cGM1aW02ZDltNzFpbTJwOWhjZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:13.000Z",
+   "updated": "2017-01-11T06:26:13.330Z",
+   "summary": "Chris's Birthday Party",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T14:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6kqm8ohm74om2bb264q3eb9k64p32bb26oqm6b9pc5im6d9m71im2p9hcg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231947608000\"",
+   "id": "6oq62phn6koj2b9pccqjib9k6dh3ab9o71j3gb9kcco3ie1k6ti3eo9k64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm9xNjJwaG42a29qMmI5cGNjcWppYjlrNmRoM2FiOW83MWozZ2I5a2NjbzNpZTFrNnRpM2VvOWs2NCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:13.000Z",
+   "updated": "2017-01-11T06:26:13.804Z",
+   "summary": "Lunch with my Ginny",
+   "location": "Lucy's",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T06:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T07:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6oq62phn6koj2b9pccqjib9k6dh3ab9o71j3gb9kcco3ie1k6ti3eo9k64@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231948506000\"",
+   "id": "chh64p3675i6cb9p6oo6ab9k75hj6b9oc9i3cb9o6dim8e1hccs6ap3660",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2hoNjRwMzY3NWk2Y2I5cDZvbzZhYjlrNzVoajZiOW9jOWkzY2I5bzZkaW04ZTFoY2NzNmFwMzY2MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:14.000Z",
+   "updated": "2017-01-11T06:26:14.253Z",
+   "summary": "Call Mr. Anderson",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T11:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "chh64p3675i6cb9p6oo6ab9k75hj6b9oc9i3cb9o6dim8e1hccs6ap3660@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231949404000\"",
+   "id": "c8rm2o9j6lh36b9l6gp38b9k60rj0b9o71h38b9gc5h30opi68q3gdr260",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhybTJvOWo2bGgzNmI5bDZncDM4YjlrNjByajBiOW83MWgzOGI5Z2M1aDMwb3BpNjhxM2dkcjI2MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:14.000Z",
+   "updated": "2017-01-11T06:26:14.702Z",
+   "summary": "Get the car fixed",
+   "location": "Sir Fixalot",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T11:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T11:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c8rm2o9j6lh36b9l6gp38b9k60rj0b9o71h38b9gc5h30opi68q3gdr260@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231950300000\"",
+   "id": "6sp6acb4cgrjcb9o6cqj2b9kcdi3cb9o6th3cb9icor6cp9lccr38p3460",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNwNmFjYjRjZ3JqY2I5bzZjcWoyYjlrY2RpM2NiOW82dGgzY2I5aWNvcjZjcDlsY2NyMzhwMzQ2MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:15.000Z",
+   "updated": "2017-01-11T06:26:15.150Z",
+   "summary": "Talent Call",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-12T04:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-12T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6sp6acb4cgrjcb9o6cqj2b9kcdi3cb9o6th3cb9icor6cp9lccr38p3460@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231952886000\"",
+   "id": "64qjccr360r64b9m69gjcb9k6hhj4bb2ccqj2bb26orm6p1o70s6cd9jco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRxamNjcjM2MHI2NGI5bTY5Z2pjYjlrNmhoajRiYjJjY3FqMmJiMjZvcm02cDFvNzBzNmNkOWpjbyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:16.000Z",
+   "updated": "2017-01-11T06:26:16.443Z",
+   "summary": "Dance Class",
+   "location": "Bring it Dance",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-12T11:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-12T12:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "64qjccr360r64b9m69gjcb9k6hhj4bb2ccqj2bb26orm6p1o70s6cd9jco@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231953742000\"",
+   "id": "6gsmao9mc9i36bb2cgrjab9kclh36b9o6lij8bb3c5hjad9o6os34d9oc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmdzbWFvOW1jOWkzNmJiMmNncmphYjlrY2xoMzZiOW82bGlqOGJiM2M1aGphZDlvNm9zMzRkOW9jOCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:16.000Z",
+   "updated": "2017-01-11T06:26:16.871Z",
+   "summary": "Video Prep",
+   "location": "Warehouse 21",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-12T14:15:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-12T15:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6gsmao9mc9i36bb2cgrjab9kclh36b9o6lij8bb3c5hjad9o6os34d9oc8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231954606000\"",
+   "id": "74o32e9pccrjgbb66sq38b9k6go3ib9o6cpm2b9l74o6cd34coo68cb46k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRvMzJlOXBjY3JqZ2JiNjZzcTM4YjlrNmdvM2liOW82Y3BtMmI5bDc0bzZjZDM0Y29vNjhjYjQ2ayBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:17.000Z",
+   "updated": "2017-01-11T06:26:17.303Z",
+   "summary": "Video Shoot",
+   "location": "Warhouse 21",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-12T15:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-12T18:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "74o32e9pccrjgbb66sq38b9k6go3ib9o6cpm2b9l74o6cd34coo68cb46k@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231955480000\"",
+   "id": "6pj3id1n71j3cbb5clij6b9kccojab9p74q6cb9gcpj6cc32cdj66phoc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBqM2lkMW43MWozY2JiNWNsaWo2YjlrY2NvamFiOXA3NHE2Y2I5Z2NwajZjYzMyY2RqNjZwaG9jOCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:17.000Z",
+   "updated": "2017-01-11T06:26:17.740Z",
+   "summary": "Lunch with John",
+   "location": "Anywhere",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-12T07:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-12T09:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6pj3id1n71j3cbb5clij6b9kccojab9p74q6cb9gcpj6cc32cdj66phoc8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231957416000\"",
+   "id": "75j3ep9g6pj6cbb475i30b9kccp6ab9o60r64b9l75h62phl74pm8c9n6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzVqM2VwOWc2cGo2Y2JiNDc1aTMwYjlrY2NwNmFiOW82MHI2NGI5bDc1aDYycGhsNzRwbThjOW42cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:18.000Z",
+   "updated": "2017-01-11T06:26:18.708Z",
+   "summary": "Post Production Meeting",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-13T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-13T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "75j3ep9g6pj6cbb475i30b9kccp6ab9o60r64b9l75h62phl74pm8c9n6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231959624000\"",
+   "id": "cgpjgpb475imabb269gj6b9k60rj2b9o68p3cbb1cpgm4e9iccpj4o9pc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2dwamdwYjQ3NWltYWJiMjY5Z2o2YjlrNjByajJiOW82OHAzY2JiMWNwZ200ZTlpY2NwajRvOXBjOCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:19.000Z",
+   "updated": "2017-01-11T06:26:19.812Z",
+   "summary": "Lunch with Ginny",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-13T07:15:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-13T08:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "cgpjgpb475imabb269gj6b9k60rj2b9o68p3cbb1cpgm4e9iccpj4o9pc8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231960472000\"",
+   "id": "6pimcohnc8omab9lc5gj0b9k6oqjgb9p68sm6b9occqm4d9mchh62cr360",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBpbWNvaG5jOG9tYWI5bGM1Z2owYjlrNm9xamdiOXA2OHNtNmI5b2NjcW00ZDltY2hoNjJjcjM2MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:20.000Z",
+   "updated": "2017-01-11T06:26:20.236Z",
+   "summary": "Meeting with Studio",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-13T09:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-13T10:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6pimcohnc8omab9lc5gj0b9k6oqjgb9p68sm6b9occqm4d9mchh62cr360@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231961318000\"",
+   "id": "chijceb56pi66b9gc4pmcb9k61h3ebb2ckrmabb1clh3ccpo65gm6d9gck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2hpamNlYjU2cGk2NmI5Z2M0cG1jYjlrNjFoM2ViYjJja3JtYWJiMWNsaDNjY3BvNjVnbTZkOWdjayBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:20.000Z",
+   "updated": "2017-01-11T06:26:20.659Z",
+   "summary": "Sound Check",
+   "location": "Willey's",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-13T12:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-13T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "chijceb56pi66b9gc4pmcb9k61h3ebb2ckrmabb1clh3ccpo65gm6d9gck@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231962128000\"",
+   "id": "68rjge1j6hhj6bb1c8r3ib9k65j3ebb2c4rj6b9nccp6adr66sr6cd9m60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhyamdlMWo2aGhqNmJiMWM4cjNpYjlrNjVqM2ViYjJjNHJqNmI5bmNjcDZhZHI2NnNyNmNkOW02MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:21.000Z",
+   "updated": "2017-01-11T06:26:21.064Z",
+   "summary": "Yoga",
+   "location": "Stretching It!",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-14T02:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-14T03:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "68rjge1j6hhj6bb1c8r3ib9k65j3ebb2c4rj6b9nccp6adr66sr6cd9m60@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231965124000\"",
+   "id": "cgsj8c36cdgm6bb470r3eb9k6hj68b9p6hijab9j70r3ip9l61hm6d9o6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2dzajhjMzZjZGdtNmJiNDcwcjNlYjlrNmhqNjhiOXA2aGlqYWI5ajcwcjNpcDlsNjFobTZkOW82YyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:22.000Z",
+   "updated": "2017-01-11T06:26:22.562Z",
+   "summary": "Talent Review",
+   "location": "Studio",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-14T06:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-14T09:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "cgsj8c36cdgm6bb470r3eb9k6hj68b9p6hijab9j70r3ip9l61hm6d9o6c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231965978000\"",
+   "id": "6lhm2c32cgo30b9p65im8b9kc5i3cbb1cgpm6bb5ccomadpjccp36d9j60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmxobTJjMzJjZ28zMGI5cDY1aW04YjlrYzVpM2NiYjFjZ3BtNmJiNWNjb21hZHBqY2NwMzZkOWo2MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:22.000Z",
+   "updated": "2017-01-11T06:26:22.989Z",
+   "summary": "Lunch with Hubby",
+   "location": "Steaks",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-14T09:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-14T11:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6lhm2c32cgo30b9p65im8b9kc5i3cbb1cgpm6bb5ccomadpjccp36d9j60@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231966992000\"",
+   "id": "60p3ie9nc8qm6bb2cgsjcb9kckpm4bb2clh3cb9p64r30c32c8r3gphgc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBwM2llOW5jOHFtNmJiMmNnc2pjYjlrY2twbTRiYjJjbGgzY2I5cDY0cjMwYzMyYzhyM2dwaGdjOCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:23.000Z",
+   "updated": "2017-01-11T06:26:23.496Z",
+   "summary": "Pick up dry Cleaning ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-14T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-14T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "60p3ie9nc8qm6bb2cgsjcb9kckpm4bb2clh3cb9p64r30c32c8r3gphgc8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231967936000\"",
+   "id": "cdij0dhi6ks3eb9jckom6b9k70o62b9p6gsj4bb56orm2e346srjip326g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2RpajBkaGk2a3MzZWI5amNrb202YjlrNzBvNjJiOXA2Z3NqNGJiNTZvcm0yZTM0NnNyamlwMzI2ZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:23.000Z",
+   "updated": "2017-01-11T06:26:23.968Z",
+   "summary": "Hair Appointment ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-14T13:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-14T14:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "cdij0dhi6ks3eb9jckom6b9k70o62b9p6gsj4bb56orm2e346srjip326g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968231969038000\"",
+   "id": "c8s32cb3cphj0b9k64s3cb9k75im6b9o75i6cb9j64r62opn68s64opo60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhzMzJjYjNjcGhqMGI5azY0czNjYjlrNzVpbTZiOW83NWk2Y2I5ajY0cjYyb3BuNjhzNjRvcG82MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:26:24.000Z",
+   "updated": "2017-01-11T06:26:24.519Z",
+   "summary": "Theatre",
+   "location": "Wilhilm's Theatre",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-14T16:15:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-14T18:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c8s32cb3cphj0b9k64s3cb9k75im6b9o75i6cb9j64r62opn68s64opo60@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232219326000\"",
+   "id": "6ph66opo75j3cbb26pijib9kckpj2bb26cq32bb5cpj6ac9kcksj8c9m6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBoNjZvcG83NWozY2JiMjZwaWppYjlrY2twajJiYjI2Y3EzMmJiNWNwajZhYzlrY2tzajhjOW02cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:29.000Z",
+   "updated": "2017-01-11T06:28:29.663Z",
+   "summary": "Portfolio Review with Sara",
+   "location": "Room 5b",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-16T07:15:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-16T08:45:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6ph66opo75j3cbb26pijib9kckpj2bb26cq32bb5cpj6ac9kcksj8c9m6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232220250000\"",
+   "id": "6osm4p9p61imcb9gc9hm4b9k6him6bb164sjcb9ocphjaeb668pm8e1m6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm9zbTRwOXA2MWltY2I5Z2M5aG00YjlrNmhpbTZiYjE2NHNqY2I5b2NwaGphZWI2NjhwbThlMW02YyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:30.000Z",
+   "updated": "2017-01-11T06:28:30.125Z",
+   "summary": "Branding Meeting",
+   "location": "Conference Room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-16T08:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-16T09:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6osm4p9p61imcb9gc9hm4b9k6him6bb164sjcb9ocphjaeb668pm8e1m6c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232221014000\"",
+   "id": "64p32cj16opj0b9k74ojcb9k75im4b9p6co62bb270o6coppcph30p1m6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRwMzJjajE2b3BqMGI5azc0b2pjYjlrNzVpbTRiOXA2Y282MmJiMjcwbzZjb3BwY3BoMzBwMW02ayBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:30.000Z",
+   "updated": "2017-01-11T06:28:30.507Z",
+   "summary": "CEO Call",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-16T10:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-16T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "64p32cj16opj0b9k74ojcb9k75im4b9p6co62bb270o6coppcph30p1m6k@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232221850000\"",
+   "id": "70pjep9ocdhj6bb66dgm8b9k6pim6bb1c8ojibb26cq30cr475ij2c366c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBwamVwOW9jZGhqNmJiNjZkZ204YjlrNnBpbTZiYjFjOG9qaWJiMjZjcTMwY3I0NzVpajJjMzY2YyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:30.000Z",
+   "updated": "2017-01-11T06:28:30.925Z",
+   "summary": "Pick up the Kids",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-16T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-16T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "70pjep9ocdhj6bb66dgm8b9k6pim6bb1c8ojibb26cq30cr475ij2c366c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232222642000\"",
+   "id": "c4rm2ob6clj6ab9kccp3ib9kc4r64bb260p68b9nclj3edhic9h3ie9kc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRybTJvYjZjbGo2YWI5a2NjcDNpYjlrYzRyNjRiYjI2MHA2OGI5bmNsajNlZGhpYzloM2llOWtjOCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:31.000Z",
+   "updated": "2017-01-11T06:28:31.321Z",
+   "summary": "Dance Class",
+   "location": "Bring it Dance",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-16T11:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-16T12:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c4rm2ob6clj6ab9kccp3ib9kc4r64bb260p68b9nclj3edhic9h3ie9kc8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232224946000\"",
+   "id": "60r62phncdj62b9i64sj8b9k6csjgb9oc4om2b9i6so62cb5c9hj8p1h6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjByNjJwaG5jZGo2MmI5aTY0c2o4YjlrNmNzamdiOW9jNG9tMmI5aTZzbzYyY2I1YzloajhwMWg2cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:31.000Z",
+   "updated": "2017-01-11T06:28:32.473Z",
+   "summary": "Yoga",
+   "location": "Stretching It!",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-17T02:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-17T03:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "60r62phncdj62b9i64sj8b9k6csjgb9oc4om2b9i6so62cb5c9hj8p1h6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232226998000\"",
+   "id": "6grj0dj56oqjab9h6gq6ab9kclhjebb274pjcb9m65ijaoj16co3apb66g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmdyajBkajU2b3FqYWI5aDZncTZhYjlrY2xoamViYjI3NHBqY2I5bTY1aWphb2oxNmNvM2FwYjY2ZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:33.000Z",
+   "updated": "2017-01-11T06:28:33.499Z",
+   "summary": "Meeting with Mr. White",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-17T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-17T07:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6grj0dj56oqjab9h6gq6ab9kclhjebb274pjcb9m65ijaoj16co3apb66g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232227954000\"",
+   "id": "cli66cr560r38b9m6oq66b9kchhjgb9o71gj4b9mcgo3ceb16kq64chlck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2xpNjZjcjU2MHIzOGI5bTZvcTY2YjlrY2hoamdiOW83MWdqNGI5bWNnbzNjZWIxNmtxNjRjaGxjayBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:33.000Z",
+   "updated": "2017-01-11T06:28:33.977Z",
+   "summary": "Lunch with John",
+   "location": "Ruby's Taco Shack",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-17T07:45:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-17T09:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "cli66cr560r38b9m6oq66b9kchhjgb9o71gj4b9mcgo3ceb16kq64chlck@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232229010000\"",
+   "id": "c8qm4cb168p30bb66kp62b9k6hhjab9o6ko66bb274q32ob264r68chnc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhxbTRjYjE2OHAzMGJiNjZrcDYyYjlrNmhoamFiOW82a282NmJiMjc0cTMyb2IyNjRyNjhjaG5jNCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:34.000Z",
+   "updated": "2017-01-11T06:28:34.505Z",
+   "summary": "Branding Meeting",
+   "location": "Main Conference",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-17T11:15:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-17T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c8qm4cb168p30bb66kp62b9k6hhjab9o6ko66bb274q32ob264r68chnc4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232229960000\"",
+   "id": "c4p6ccr26gr68bb66pj36b9kclij4bb16lj3cb9o61hmccj1cos32c1n60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRwNmNjcjI2Z3I2OGJiNjZwajM2YjlrY2xpajRiYjE2bGozY2I5bzYxaG1jY2oxY29zMzJjMW42MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:34.000Z",
+   "updated": "2017-01-11T06:28:34.980Z",
+   "summary": "Yoga",
+   "location": "Stretching It!",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-18T02:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-18T03:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c4p6ccr26gr68bb66pj36b9kclij4bb16lj3cb9o61hmccj1cos32c1n60@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232233194000\"",
+   "id": "74r3ae1ncoq3ib9lcdhm4b9kcgqm2bb26sr3gbb3cgs30dr26gqmccb46g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRyM2FlMW5jb3EzaWI5bGNkaG00YjlrY2dxbTJiYjI2c3IzZ2JiM2NnczMwZHIyNmdxbWNjYjQ2ZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:35.000Z",
+   "updated": "2017-01-11T06:28:36.597Z",
+   "summary": "On set ",
+   "location": "Central Park",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-18T07:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-18T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "74r3ae1ncoq3ib9lcdhm4b9kcgqm2bb26sr3gbb3cgs30dr26gqmccb46g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232234764000\"",
+   "id": "70p6cpb26so6ab9nc4o6cb9kc8p3ab9pc9h3cb9k6tim2or671hmcor4co",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBwNmNwYjI2c282YWI5bmM0bzZjYjlrYzhwM2FiOXBjOWgzY2I5azZ0aW0yb3I2NzFobWNvcjRjbyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:37.000Z",
+   "updated": "2017-01-11T06:28:37.382Z",
+   "summary": "Talk to Owner of club",
+   "location": "Ibis Bar",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-18T11:45:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-18T12:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "70p6cpb26so6ab9nc4o6cb9kc8p3ab9pc9h3cb9k6tim2or671hmcor4co@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232235696000\"",
+   "id": "74sj4opg6hi66bb368o36b9k69i30bb1ccp3ib9m68rjgdhm64s62pb668",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRzajRvcGc2aGk2NmJiMzY4bzM2YjlrNjlpMzBiYjFjY3AzaWI5bTY4cmpnZGhtNjRzNjJwYjY2OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:37.000Z",
+   "updated": "2017-01-11T06:28:37.848Z",
+   "summary": "Pick up the Kids",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-18T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-18T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "74sj4opg6hi66bb368o36b9k69i30bb1ccp3ib9m68rjgdhm64s62pb668@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232236682000\"",
+   "id": "6kp3echnc5i66bb564qjcb9k6hhj4bb2coq6cbb274omao9l6tgmadhl6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmtwM2VjaG5jNWk2NmJiNTY0cWpjYjlrNmhoajRiYjJjb3E2Y2JiMjc0b21hbzlsNnRnbWFkaGw2cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:38.000Z",
+   "updated": "2017-01-11T06:28:38.341Z",
+   "summary": "Pick up Tickets for Vacation",
+   "location": "Flora's Travel Barn",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-18T12:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-18T12:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6kp3echnc5i66bb564qjcb9k6hhj4bb2coq6cbb274omao9l6tgmadhl6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232237616000\"",
+   "id": "6lim8e9ic9ij4bb169i3cb9kchh30bb2c4pj0bb56oo6cchk69gmaohp74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmxpbThlOWljOWlqNGJiMTY5aTNjYjlrY2hoMzBiYjJjNHBqMGJiNTZvbzZjY2hrNjlnbWFvaHA3NCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:38.000Z",
+   "updated": "2017-01-11T06:28:38.808Z",
+   "summary": "Yoga",
+   "location": "Stretching It!",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-19T02:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-19T03:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "6lim8e9ic9ij4bb169i3cb9kchh30bb2c4pj0bb56oo6cchk69gmaohp74@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232240188000\"",
+   "id": "ccqjaor575gjab9kc4pjab9k6kqjgbb2coqj0b9i65h6cpb471hjipb564",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2NxamFvcjU3NWdqYWI5a2M0cGphYjlrNmtxamdiYjJjb3FqMGI5aTY1aDZjcGI0NzFoamlwYjU2NCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:39.000Z",
+   "updated": "2017-01-11T06:28:40.094Z",
+   "summary": "Drop off clothes",
+   "location": "Drying things",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-19T03:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-19T03:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "ccqjaor575gjab9kc4pjab9k6kqjgbb2coqj0b9i65h6cpb471hjipb564@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232241062000\"",
+   "id": "c4s6cp3268pjeb9k6dij2b9kcgrj0bb1ccqm4b9h6kqjid9ickom8chm6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRzNmNwMzI2OHBqZWI5azZkaWoyYjlrY2dyajBiYjFjY3FtNGI5aDZrcWppZDlpY2tvbThjaG02cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:40.000Z",
+   "updated": "2017-01-11T06:28:40.531Z",
+   "summary": "Company Meeting",
+   "location": "Conference Room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-19T04:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-19T07:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c4s6cp3268pjeb9k6dij2b9kcgrj0bb1ccqm4b9h6kqjid9ickom8chm6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232242012000\"",
+   "id": "68pm2dj3c4r3ab9p71hj4b9kc5hj6b9pcos3ib9n60o36dhmckrj0pb360",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhwbTJkajNjNHIzYWI5cDcxaGo0YjlrYzVoajZiOXBjb3MzaWI5bjYwbzM2ZGhtY2tyajBwYjM2MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:40.000Z",
+   "updated": "2017-01-11T06:28:41.006Z",
+   "summary": "Lunch Date with Kenn",
+   "location": "Homey's",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-19T08:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-19T10:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "68pm2dj3c4r3ab9p71hj4b9kc5hj6b9pcos3ib9n60o36dhmckrj0pb360@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232242888000\"",
+   "id": "c8s68dj5c9hjcbb36so3ab9k6li36b9o60sm6bb2ckp38cr36th6co9i60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhzNjhkajVjOWhqY2JiMzZzbzNhYjlrNmxpMzZiOW82MHNtNmJiMmNrcDM4Y3IzNnRoNmNvOWk2MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:41.000Z",
+   "updated": "2017-01-11T06:28:41.444Z",
+   "summary": "Pick up Kids",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-19T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-19T10:30:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "c8s68dj5c9hjcbb36so3ab9k6li36b9o60sm6bb2ckp38cr36th6co9i60@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2968232243896000\"",
+   "id": "64s68dpk65gj8bb160o32b9k6ks30bb1ccqj8bb665ijep9p68rjccj568",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRzNjhkcGs2NWdqOGJiMTYwbzMyYjlrNmtzMzBiYjFjY3FqOGJiNjY1aWplcDlwNjhyamNjajU2OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-01-11T06:28:41.000Z",
+   "updated": "2017-01-11T06:28:41.948Z",
+   "summary": "PACK!!!!",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-19T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-19T13:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "iCalUID": "64s68dpk65gj8bb160o32b9k6ks30bb1ccqj8bb665ijep9p68rjccj568@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2976456435092000\"",
+   "id": "6ti32d32cgojcbb46osm6b9kchi3gb9o71j62b9l6kp36p9ic8s36e1hcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRpMzJkMzJjZ29qY2JiNDZvc202YjlrY2hpM2diOW83MWo2MmI5bDZrcDM2cDlpYzhzMzZlMWhjYyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-02-27T20:43:37.000Z",
+   "updated": "2017-02-27T20:43:37.546Z",
+   "summary": "PROM",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-04-22T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2017-04-22T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6ti32d32cgojcbb46osm6b9kchi3gb9o71j62b9l6kp36p9ic8s36e1hcc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115611144000\"",
+   "id": "cgsm8e35cko32bb1cko30b9kcpim8b9o6pi66bb165h3eo9lc8p62cpo6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2dzbThlMzVja28zMmJiMWNrbzMwYjlrY3BpbThiOW82cGk2NmJiMTY1aDNlbzlsYzhwNjJjcG82b18yMDE3MDExMlQxMDAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2017-01-11T06:26:15.000Z",
+   "updated": "2017-05-17T21:50:05.572Z",
+   "summary": "Status Meeting",
+   "location": "Conference Room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-12T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-12T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20170518T095959Z"
+   ],
+   "iCalUID": "cgsm8e35cko32bb1cko30b9kcpim8b9o6pi66bb165h3eo9lc8p62cpo6o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115686610000\"",
+   "id": "cosjec9pc5h3ibb6ckr30b9k70rmab9ocosm6bb1c4rjcopp6gqm4dpo70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y29zamVjOXBjNWgzaWJiNmNrcjMwYjlrNzBybWFiOW9jb3NtNmJiMWM0cmpjb3BwNmdxbTRkcG83MF8yMDE3MDExNFQxMDAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2017-01-11T06:26:21.000Z",
+   "updated": "2017-05-17T21:50:43.305Z",
+   "summary": "Status Meeting",
+   "location": "Conference room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-14T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-14T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20170520T095959Z"
+   ],
+   "iCalUID": "cosjec9pc5h3ibb6ckr30b9k70rmab9ocosm6bb1c4rjcopp6gqm4dpo70@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115853102000\"",
+   "id": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y29yajhwMW82a3EzZ2JiNmM5aDM4YjlrNzFnbTJiOW82b3NtNmJiNDYwcmoyZHBwNnBqM2VlYjM2Z18yMDE3MDExMlQxNTAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2017-01-11T06:26:15.000Z",
+   "updated": "2017-05-17T21:52:06.551Z",
+   "summary": "Pick up the Kids",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-12T10:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-12T10:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20170615T145959Z"
+   ],
+   "iCalUID": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115853102000\"",
+   "id": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g_20170518T150000Z",
+   "status": "cancelled",
+   "recurringEventId": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g",
+   "originalStartTime": {
+    "dateTime": "2017-05-18T11:00:00-04:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115853102000\"",
+   "id": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g_20170525T150000Z",
+   "status": "cancelled",
+   "recurringEventId": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g",
+   "originalStartTime": {
+    "dateTime": "2017-05-25T11:00:00-04:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115853102000\"",
+   "id": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g_20170601T150000Z",
+   "status": "cancelled",
+   "recurringEventId": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g",
+   "originalStartTime": {
+    "dateTime": "2017-06-01T11:00:00-04:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115853102000\"",
+   "id": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g_20170608T150000Z",
+   "status": "cancelled",
+   "recurringEventId": "corj8p1o6kq3gbb6c9h38b9k71gm2b9o6osm6bb460rj2dpp6pj3eeb36g",
+   "originalStartTime": {
+    "dateTime": "2017-06-08T11:00:00-04:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115903484000\"",
+   "id": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRpNjhlMW02b3A2Y2JiNWNjcm0yYjlrYzlpNjZiOXBjcGg2OGI5ajc1aGphZHI1NzVnamNkOWhja18yMDE3MDExMFQxMDAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2017-01-11T06:26:12.000Z",
+   "updated": "2017-05-17T21:52:31.742Z",
+   "summary": "Status Meeting",
+   "location": "Conference room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-10T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-10T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20170620T095959Z"
+   ],
+   "iCalUID": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115903484000\"",
+   "id": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck_20170523T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck",
+   "originalStartTime": {
+    "dateTime": "2017-05-23T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115903484000\"",
+   "id": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck_20170530T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck",
+   "originalStartTime": {
+    "dateTime": "2017-05-30T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115903484000\"",
+   "id": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck_20170606T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck",
+   "originalStartTime": {
+    "dateTime": "2017-06-06T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115903484000\"",
+   "id": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck_20170613T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "6ti68e1m6op6cbb5ccrm2b9kc9i66b9pcph68b9j75hjadr575gjcd9hck",
+   "originalStartTime": {
+    "dateTime": "2017-06-13T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115923624000\"",
+   "id": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzVpamVkcGo2OHIzMGI5aGNkaTMyYjlrYzhzamViOW82MWlqNmI5bmNnb200ZGhtYzhxMzJjcGk2a18yMDE3MDExN1QxMDAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2017-01-11T06:28:32.000Z",
+   "updated": "2017-05-17T21:52:41.812Z",
+   "summary": "Status Meeting",
+   "location": "Conference room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-17T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-17T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20170620T095959Z"
+   ],
+   "iCalUID": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115923624000\"",
+   "id": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k_20170523T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k",
+   "originalStartTime": {
+    "dateTime": "2017-05-23T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115923624000\"",
+   "id": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k_20170530T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k",
+   "originalStartTime": {
+    "dateTime": "2017-05-30T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115923624000\"",
+   "id": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k_20170606T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k",
+   "originalStartTime": {
+    "dateTime": "2017-06-06T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115923624000\"",
+   "id": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k_20170613T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c5ijedpj68r30b9hcdi32b9kc8sjeb9o61ij6b9ncgom4dhmc8q32cpi6k",
+   "originalStartTime": {
+    "dateTime": "2017-06-13T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115955482000\"",
+   "id": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRwamVkMW5jZ3A2NGJiMzY5aDNjYjlrNjhxbThiOXBjY3E2YWI5Zzc0bzZjcDlpNzVoamFvajU2Z18yMDE3MDExOFQxMDAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2017-01-11T06:28:35.000Z",
+   "updated": "2017-05-17T21:52:57.741Z",
+   "summary": "Status Meeting",
+   "location": "Conference room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-18T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-18T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20170621T095959Z"
+   ],
+   "iCalUID": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115955482000\"",
+   "id": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g_20170524T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g",
+   "originalStartTime": {
+    "dateTime": "2017-05-24T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115955482000\"",
+   "id": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g_20170531T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g",
+   "originalStartTime": {
+    "dateTime": "2017-05-31T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115955482000\"",
+   "id": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g_20170607T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g",
+   "originalStartTime": {
+    "dateTime": "2017-06-07T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990115955482000\"",
+   "id": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g_20170614T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "c4pjed1ncgp64bb369h3cb9k68qm8b9pccq6ab9g74o6cp9i75hjaoj56g",
+   "originalStartTime": {
+    "dateTime": "2017-06-14T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRyM2lkOWs2MWkzNGJiMjc0cm04YjlrNmRoNmNiOW82aGgzYWJiNjYwcTNpZDFtNjBxamVwYjQ2Z18yMDE3MDExM1QxMDAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2017-01-11T06:26:18.000Z",
+   "updated": "2017-05-17T21:53:33.727Z",
+   "summary": "Status Meeting",
+   "location": "Conference room",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-01-13T05:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "end": {
+    "dateTime": "2017-01-13T06:00:00-05:00",
+    "timeZone": "Etc/UTC"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20170707T095959Z"
+   ],
+   "iCalUID": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g_20170519T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "originalStartTime": {
+    "dateTime": "2017-05-19T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g_20170526T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "originalStartTime": {
+    "dateTime": "2017-05-26T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g_20170602T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "originalStartTime": {
+    "dateTime": "2017-06-02T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g_20170609T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "originalStartTime": {
+    "dateTime": "2017-06-09T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g_20170616T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "originalStartTime": {
+    "dateTime": "2017-06-16T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g_20170623T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "originalStartTime": {
+    "dateTime": "2017-06-23T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116027454000\"",
+   "id": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g_20170630T100000Z",
+   "status": "cancelled",
+   "recurringEventId": "74r3id9k61i34bb274rm8b9k6dh6cb9o6hh3abb660q3id1m60qjepb46g",
+   "originalStartTime": {
+    "dateTime": "2017-06-30T06:00:00-04:00",
+    "timeZone": "Etc/UTC"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116408452000\"",
+   "id": "c8o6cdr5cph3gb9n60rjib9k70qjcb9pcos62b9ic4rj0opl6gqj4p1hcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhvNmNkcjVjcGgzZ2I5bjYwcmppYjlrNzBxamNiOXBjb3M2MmI5aWM0cmowb3BsNmdxajRwMWhjYyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-05-17T21:56:44.000Z",
+   "updated": "2017-05-17T21:56:44.226Z",
+   "summary": "Raleigh North Carolina Manager Meeting",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-06-06T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2017-06-06T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c8o6cdr5cph3gb9n60rjib9k70qjcb9pcos62b9ic4rj0opl6gqj4p1hcc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2990116967002000\"",
+   "id": "64s62p1k6gojabb2ccq3ab9k74p68b9o6pj30b9m6spjacpm65j64phk6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRzNjJwMWs2Z29qYWJiMmNjcTNhYjlrNzRwNjhiOW82cGozMGI5bTZzcGphY3BtNjVqNjRwaGs2YyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-05-17T22:01:23.000Z",
+   "updated": "2017-05-17T22:01:23.501Z",
+   "summary": "I absolutely love you Stefan. You're so amazing and I'm beyond blessed to not only have you as a boyfriend but my best friend. I hope you have an awesome birthday\u200b baby. I love you. ❤️❤️😍😍",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-06-18T01:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2017-06-18T02:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "64s62p1k6gojabb2ccq3ab9k74p68b9o6pj30b9m6spjacpm65j64phk6c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2992139628040000\"",
+   "id": "cgrjic9j70q3ib9n6gs38b9kcdj6cb9p70pmabb56oo6ap31ckpj8c9jcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2dyamljOWo3MHEzaWI5bjZnczM4YjlrY2RqNmNiOXA3MHBtYWJiNTZvbzZhcDMxY2twajhjOWpjYyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2017-05-29T14:56:53.000Z",
+   "updated": "2017-05-29T14:56:54.020Z",
+   "summary": "I love you so much Stefan, I hope you're having a great day. 😘😘",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "stefan hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-05-01T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2017-05-01T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "cgrjic9j70q3ib9n6gs38b9kcdj6cb9p70pmabb56oo6ap31ckpj8c9jcc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3051180117424000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegrjaqb7dcp6op9gcos7ad3ldhgj0rjfellj8ojb71qm8r9j75j6mp1od0qmqebjdhnm8tbb71r3gp36csqme",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVncmphcWI3ZGNwNm9wOWdjb3M3YWQzbGRoZ2owcmpmZWxsajhvamI3MXFtOHI5ajc1ajZtcDFvZDBxbXFlYmpkaG5tOHRiYjcxcjNncDM2Y3NxbWUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2018-05-06T07:00:58.000Z",
+   "updated": "2018-05-06T07:00:58.712Z",
+   "summary": "Reservation at Texas de Brazil - Richmond",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN7o-SJZ6g-KoNDM-mMSJCz7bPPx0eXdAE\n",
+   "location": "Texas de Brazil - Richmond, 11800 W. Broad Street Suite 1092, Richmond, VA, United States, 23233",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2018-05-06T19:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2018-05-06T20:30:00-04:00"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t75igk2le0f8u4ula0nouk4bk8udm39fkd8h5m9sloduk8v8dfg5g",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "displayName": "Stefan Hall",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN7o-SJZ6g-KoNDM-mMSJCz7bPPx0eXdAE",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3093453086016000\"",
+   "id": "6or34p9l64pj8bb36ph3ib9kcoq30b9oc8rj4bb461h38c9j64r3apj3cg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm9yMzRwOWw2NHBqOGJiMzZwaDNpYjlrY29xMzBiOW9jOHJqNGJiNDYxaDM4YzlqNjRyM2FwajNjZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-01-05T22:15:42.000Z",
+   "updated": "2019-01-05T22:15:43.008Z",
+   "summary": "Conceltation for wisdom teeth",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-01-08T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-01-08T19:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6or34p9l64pj8bb36ph3ib9kcoq30b9oc8rj4bb461h38c9j64r3apj3cg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3094983629664000\"",
+   "id": "c9j68cr564sjeb9oc8s3gb9k6dh62bb1ckq3ab9o6phjgpj5c4r68p3274",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzlqNjhjcjU2NHNqZWI5b2M4czNnYjlrNmRoNjJiYjFja3EzYWI5bzZwaGpncGo1YzRyNjhwMzI3NCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-01-14T18:50:14.000Z",
+   "updated": "2019-01-14T18:50:14.832Z",
+   "summary": "Try for wisdom teeth",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-15T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-02-15T10:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c9j68cr564sjeb9oc8s3gb9k6dh62bb1ckq3ab9o6phjgpj5c4r68p3274@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3094983883472000\"",
+   "id": "61im6pj3cpj30b9i6hh3eb9k6gsjebb26srmcb9kccrmap366gqm4cb168",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjFpbTZwajNjcGozMGI5aTZoaDNlYjlrNmdzamViYjI2c3JtY2I5a2Njcm1hcDM2NmdxbTRjYjE2OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-01-11T19:00:24.000Z",
+   "updated": "2019-01-14T18:52:21.736Z",
+   "summary": "Consultation for wisdom teeth (try for February 15th)",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-01-28T15:15:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-01-28T16:15:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "61im6pj3cpj30b9i6hh3eb9k6gsjebb26srmcb9kccrmap366gqm4cb168@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3104651270920000\"",
+   "id": "64rj4db1cpj32b9h6ksjeb9kckqm2bb26or3ab9p6kpjior161i3iohi6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRyajRkYjFjcGozMmI5aDZrc2plYjlrY2txbTJiYjI2b3IzYWI5cDZrcGppb3IxNjFpM2lvaGk2cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-03-11T17:33:55.000Z",
+   "updated": "2019-03-11T17:33:55.460Z",
+   "summary": "Dentist Stefan 11:00am",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "displayName": "Stefan Hall",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-09-13T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-09-13T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "64rj4db1cpj32b9h6ksjeb9kckqm2bb26or3ab9p6kpjior161i3iohi6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3114564812636000\"",
+   "id": "6ti3ecr3ccrj0bb66oq3ab9k68rm4bb274o36b9o6cqj8eb261j3idpm6c",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRpM2VjcjNjY3JqMGJiNjZvcTNhYjlrNjhybTRiYjI3NG8zNmI5bzZjcWo4ZWIyNjFqM2lkcG02YyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-05-08T02:26:46.000Z",
+   "updated": "2019-05-08T02:26:46.318Z",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-05-08T05:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-05-08T06:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6ti3ecr3ccrj0bb66oq3ab9k68rm4bb274o36b9o6cqj8eb261j3idpm6c@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118441270312000\"",
+   "id": "c9gm8pb56krjab9m6kp38b9kckr6ab9p69j6ab9pcks3gopj6oomaopj6g",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzlnbThwYjU2a3JqYWI5bTZrcDM4YjlrY2tyNmFiOXA2OWo2YWI5cGNrczNnb3BqNm9vbWFvcGo2ZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-05-30T12:50:35.000Z",
+   "updated": "2019-05-30T12:50:35.156Z",
+   "summary": "Pick up Alieve, take off June 29th,  and be happy. I love you baby and hope you have a great night 💖💖",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-05-30T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-05-30T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c9gm8pb56krjab9m6kp38b9kckr6ab9p69j6ab9pcks3gopj6oomaopj6g@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3124673352624000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegsmirjjdtj6arrbccpmsojleoq7cp3jeoon4r1hegs3cqrhelim8p9jdgp38rjgcgr7csj16dj6ir9pelm6e",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVnc21pcmpqZHRqNmFycmJjY3Btc29qbGVvcTdjcDNqZW9vbjRyMWhlZ3MzY3FyaGVsaW04cDlqZGdwMzhyamdjZ3I3Y3NqMTZkajZpcjlwZWxtNmUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2019-07-05T14:24:36.000Z",
+   "updated": "2019-07-05T14:24:36.312Z",
+   "summary": "Reservation at Cherokee Grill Gatlinburg",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO6yDfxW9KvcHObkWT2pzCntyAhRgcaf34\n",
+   "location": "Cherokee Grill Gatlinburg, 1002 Parkway, Gatlinburg, Tennessee, United States, 37738",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2019-07-05T17:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2019-07-05T18:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t9insofeokc3nbuv4vdsv1rl1t86kquede3l24npd6vra3fim9ulg",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO6yDfxW9KvcHObkWT2pzCntyAhRgcaf34",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3131770385080000\"",
+   "id": "c9j3aor16th32bb5c4pm8b9kchgjgb9ockpm8bb1ckojao9l6lhm8oj468",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzlqM2FvcjE2dGgzMmJiNWM0cG04YjlrY2hnamdiOW9ja3BtOGJiMWNrb2phbzlsNmxobThvajQ2OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-08-15T16:06:32.000Z",
+   "updated": "2019-08-15T16:06:32.540Z",
+   "summary": "Oil change",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-08-24T13:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-08-24T14:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c9j3aor16th32bb5c4pm8b9kchgjgb9ockpm8bb1ckojao9l6lhm8oj468@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3136117499330000\"",
+   "id": "6lij2e326csmab9o6koj4b9kcpim2b9o6kq6ab9h6th3cohnckq3cdpm60",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmxpajJlMzI2Y3NtYWI5bzZrb2o0YjlrY3BpbTJiOW82a3E2YWI5aDZ0aDNjb2huY2txM2NkcG02MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-09-09T19:52:29.000Z",
+   "updated": "2019-09-09T19:52:29.665Z",
+   "summary": "$10 for doughnuts  at work",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-09-10T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-09-10T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6lij2e326csmab9o6koj4b9kcpim2b9o6kq6ab9h6th3cohnckq3cdpm60@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3137775850050000\"",
+   "id": "60pjieb664p6abb2cgp3ib9k70q66bb160qjeb9m6op64chh6hgj6p9i60",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBwamllYjY2NHA2YWJiMmNncDNpYjlrNzBxNjZiYjE2MHFqZWI5bTZvcDY0Y2hoNmhnajZwOWk2MF8yMDE5MDkxOVQxNzAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2019-09-19T10:12:04.000Z",
+   "updated": "2019-09-19T10:12:05.025Z",
+   "summary": "Home owner class",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-09-19T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-09-19T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20191017T170000Z;INTERVAL=1;BYDAY=TH"
+   ],
+   "iCalUID": "60pjieb664p6abb2cgp3ib9k70q66bb160qjeb9m6op64chh6hgj6p9i60@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3137776082596000\"",
+   "id": "60pjieb664p6abb2cgp3ib9k70q66bb160qjeb9m6op64chh6hgj6p9i60_20190919T170000Z",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBwamllYjY2NHA2YWJiMmNncDNpYjlrNzBxNjZiYjE2MHFqZWI5bTZvcDY0Y2hoNmhnajZwOWk2MF8yMDE5MDkxOVQxNzAwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2019-09-19T10:12:04.000Z",
+   "updated": "2019-09-19T10:14:01.298Z",
+   "summary": "Home owner class",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-09-19T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-09-19T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "60pjieb664p6abb2cgp3ib9k70q66bb160qjeb9m6op64chh6hgj6p9i60",
+   "originalStartTime": {
+    "dateTime": "2019-09-19T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "60pjieb664p6abb2cgp3ib9k70q66bb160qjeb9m6op64chh6hgj6p9i60@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3138174944472000\"",
+   "id": "75h3eoj360p66bb56go3eb9kckpjib9ocko3ebb26dgm6eb66csj8db3c4",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzVoM2VvajM2MHA2NmJiNTZnbzNlYjlrY2twamliOW9ja28zZWJiMjZkZ202ZWI2NmNzajhkYjNjNCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-09-21T17:37:52.000Z",
+   "updated": "2019-09-21T17:37:52.236Z",
+   "summary": "Who services trash, water, and eletric ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-09-21T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-09-21T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "75h3eoj360p66bb56go3eb9kckpjib9ocko3ebb26dgm6eb66csj8db3c4@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3139746295232000\"",
+   "id": "70s66chpcdim8bb66co62b9k6kpmcb9o6kpj6b9hcgs36e1m6hijip1icc",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBzNjZjaHBjZGltOGJiNjZjbzYyYjlrNmtwbWNiOW82a3BqNmI5aGNnczM2ZTFtNmhpamlwMWljYyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-09-30T19:52:27.000Z",
+   "updated": "2019-09-30T19:52:27.616Z",
+   "summary": "Put Caitlin on The Deed",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-10-01T13:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-10-01T14:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "70s66chpcdim8bb66co62b9k6kpmcb9o6kpj6b9hcgs36e1m6hijip1icc@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3142438524482000\"",
+   "id": "64smac1gccrmcbb561h3ab9k6grj6bb16pimcbb5c4pjeeb5c5hj0chj70",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRzbWFjMWdjY3JtY2JiNTYxaDNhYjlrNmdyajZiYjE2cGltY2JiNWM0cGplZWI1YzVoajBjaGo3MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-10-16T09:47:42.000Z",
+   "updated": "2019-10-16T09:47:42.241Z",
+   "summary": "Cheese dip",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-10-16T13:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-10-16T14:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "64smac1gccrmcbb561h3ab9k6grj6bb16pimcbb5c4pjeeb5c5hj0chj70@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3145085968188000\"",
+   "id": "6or30p1gcgp64b9icgr62b9kcoqm6bb174p3cb9p75gjgopo6ks36dj66k",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm9yMzBwMWdjZ3A2NGI5aWNncjYyYjlrY29xbTZiYjE3NHAzY2I5cDc1Z2pnb3BvNmtzMzZkajY2ayBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-10-31T17:29:44.000Z",
+   "updated": "2019-10-31T17:29:44.094Z",
+   "summary": "Conceltation for retention cyst",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-11-11T11:15:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-11-11T12:15:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6or30p1gcgp64b9icgr62b9kcoqm6bb174p3cb9p75gjgopo6ks36dj66k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3146411817720000\"",
+   "id": "c4qm6cpmcgojgb9h69hjib9k6cq3gbb26cp3cb9j6dj6cp36cgoj8dpn6c",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRxbTZjcG1jZ29qZ2I5aDY5aGppYjlrNmNxM2diYjI2Y3AzY2I5ajZkajZjcDM2Y2dvajhkcG42YyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-11-08T09:38:28.000Z",
+   "updated": "2019-11-08T09:38:28.860Z",
+   "summary": "Oil change/Key Batt. replacement ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-11-09T11:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-11-09T12:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c4qm6cpmcgojgb9h69hjib9k6cq3gbb26cp3cb9j6dj6cp36cgoj8dpn6c@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3146412010040000\"",
+   "id": "69ijadb4ccqjcb9l6gom8b9k65ij8bb1cgojab9o61ijcdphcli6aoj3c8",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjlpamFkYjRjY3FqY2I5bDZnb204YjlrNjVpajhiYjFjZ29qYWI5bzYxaWpjZHBoY2xpNmFvajNjOCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-11-08T09:40:04.000Z",
+   "updated": "2019-11-08T09:40:05.020Z",
+   "summary": "Direct deposit change",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-11-08T19:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-11-08T20:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "69ijadb4ccqjcb9l6gom8b9k65ij8bb1cgojab9o61ijcdphcli6aoj3c8@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3148657971232000\"",
+   "id": "c8sm4ob160pm8bb56gp3ab9k70r34b9p74smab9p6hj34o9ocdj38cb1c8",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhzbTRvYjE2MHBtOGJiNTZncDNhYjlrNzByMzRiOXA3NHNtYWI5cDZoajM0bzlvY2RqMzhjYjFjOCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-11-21T09:36:25.000Z",
+   "updated": "2019-11-21T09:36:25.616Z",
+   "summary": "Book club",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-05T15:45:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-05T16:45:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c8sm4ob160pm8bb56gp3ab9k70r34b9p74smab9p6hj34o9ocdj38cb1c8@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3149075763196000\"",
+   "id": "6thmaeb6c4q64bb474o3ib9kclj3ibb165j3ab9kcgqjge1o6gomaob674",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRobWFlYjZjNHE2NGJiNDc0bzNpYjlrY2xqM2liYjE2NWozYWI5a2NncWpnZTFvNmdvbWFvYjY3NCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-11-23T19:38:01.000Z",
+   "updated": "2019-11-23T19:38:01.598Z",
+   "summary": "Green bean casserole look up",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-11-23T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-11-23T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6thmaeb6c4q64bb474o3ib9kclj3ibb165j3ab9kcgqjge1o6gomaob674@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3149593854134000\"",
+   "id": "6tgmacj16lgj8bb2cpi3ib9kc8smcb9o6ks64b9n74sm2d9o6li36d9n68",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRnbWFjajE2bGdqOGJiMmNwaTNpYjlrYzhzbWNiOW82a3M2NGI5bjc0c20yZDlvNmxpMzZkOW42OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-11-26T19:35:26.000Z",
+   "updated": "2019-11-26T19:35:27.067Z",
+   "summary": "Print birth certificate application ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-11-26T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-11-26T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6tgmacj16lgj8bb2cpi3ib9kc8smcb9o6ks64b9n74sm2d9o6li36d9n68@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3150907549594000\"",
+   "id": "68r3ic9g74rjibb3ccq36b9kc8q34bb16pi66b9n64qj6c1g60rjip9nck",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhyM2ljOWc3NHJqaWJiM2NjcTM2YjlrYzhxMzRiYjE2cGk2NmI5bjY0cWo2YzFnNjByamlwOW5jayBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-12-04T10:02:54.000Z",
+   "updated": "2019-12-04T10:02:54.797Z",
+   "summary": "Read 2 chapters and write good bbso",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-04T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-04T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "68r3ic9g74rjibb3ccq36b9kc8q34bb16pi66b9n64qj6c1g60rjip9nck@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3151315789702000\"",
+   "id": "6co62p1j6dhjabb4cdi3gb9k6lhjab9pckpm8bb2c5i3id9oc8rm8dhlcg",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmNvNjJwMWo2ZGhqYWJiNGNkaTNnYjlrNmxoamFiOXBja3BtOGJiMmM1aTNpZDlvYzhybThkaGxjZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-12-06T18:44:54.000Z",
+   "updated": "2019-12-06T18:44:54.851Z",
+   "summary": "CLEAN TRASH IN BACK YARD",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-07T13:10:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-07T14:10:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6co62p1j6dhjabb4cdi3gb9k6lhjab9pckpm8bb2c5i3id9oc8rm8dhlcg@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3152007606974000\"",
+   "id": "61ijgeb2ccoj2b9jclh3gb9kc8o66bb169i3ib9j6crjgdr66cr32c366k",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjFpamdlYjJjY29qMmI5amNsaDNnYjlrYzhvNjZiYjE2OWkzaWI5ajZjcmpnZHI2NmNyMzJjMzY2ayBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-12-10T18:50:03.000Z",
+   "updated": "2019-12-10T18:50:03.487Z",
+   "summary": "Paper",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-10T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-10T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "61ijgeb2ccoj2b9jclh3gb9kc8o66bb169i3ib9j6crjgdr66cr32c366k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3153051981636000\"",
+   "id": "cdh66dhm6soj0bb36gq66b9k6lhjgbb26lij6b9p75j38dr5ccrj6opg6s",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2RoNjZkaG02c29qMGJiMzZncTY2YjlrNmxoamdiYjI2bGlqNmI5cDc1ajM4ZHI1Y2NyajZvcGc2c18yMDIwMDEwOFQxODMwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2019-12-16T19:53:10.000Z",
+   "updated": "2019-12-16T19:53:10.818Z",
+   "summary": "Jared Payment",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-08T13:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-01-08T14:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "recurrence": [
+    "RRULE:FREQ=MONTHLY;WKST=SU;UNTIL=20220608T173000Z;INTERVAL=1;BYMONTHDAY=8"
+   ],
+   "iCalUID": "cdh66dhm6soj0bb36gq66b9k6lhjgbb26lij6b9p75j38dr5ccrj6opg6s@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3153678318536000\"",
+   "id": "6lgj2p9gc8sjib9jcgq3gb9k70r3ibb1c9hm4bb4cdhjed34c4omapj270",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmxnajJwOWdjOHNqaWI5amNncTNnYjlrNzByM2liYjFjOWhtNGJiNGNkaGplZDM0YzRvbWFwajI3MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-12-20T10:52:39.000Z",
+   "updated": "2019-12-20T10:52:39.268Z",
+   "summary": "Donate $20 for bubu's mom",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-20T08:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-20T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6lgj2p9gc8sjib9jcgq3gb9k70r3ibb1c9hm4bb4cdhjed34c4omapj270@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3154237410030000\"",
+   "id": "71ijiphgc4sj2bb46pi66b9k61hjcbb2ccp6ab9pc5i30e1g6ph64dpp68",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFpamlwaGdjNHNqMmJiNDZwaTY2YjlrNjFoamNiYjJjY3A2YWI5cGM1aTMwZTFnNnBoNjRkcHA2OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-12-23T16:31:44.000Z",
+   "updated": "2019-12-23T16:31:45.015Z",
+   "summary": "Half chicken half steak, brown rice, extra corn, lettuce, mild salsa, sour cream, cheese, ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-23T13:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-23T14:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "71ijiphgc4sj2bb46pi66b9k61hjcbb2ccp6ab9pc5i30e1g6ph64dpp68@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3154754426368000\"",
+   "id": "68o6aob6cgq6ab9mcos66b9kcko34bb170s3gb9n6crjepb36opmad316s",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhvNmFvYjZjZ3E2YWI5bWNvczY2YjlrY2tvMzRiYjE3MHMzZ2I5bjZjcmplcGIzNm9wbWFkMzE2cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-12-26T16:20:13.000Z",
+   "updated": "2019-12-26T16:20:13.184Z",
+   "summary": "Birth certificate ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-26T20:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-26T21:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "68o6aob6cgq6ab9mcos66b9kcko34bb170s3gb9n6crjepb36opmad316s@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3155442366718000\"",
+   "id": "ccs3ap36c4qj8bb6ccsm4b9k61im2bb170rm8bb361j38or56grjap1pcc",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2NzM2FwMzZjNHFqOGJiNmNjc200YjlrNjFpbTJiYjE3MHJtOGJiMzYxajM4b3I1NmdyamFwMXBjYyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-12-30T15:53:03.000Z",
+   "updated": "2019-12-30T15:53:03.359Z",
+   "summary": "GAS FOR LAWNMOWER",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-30T14:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-12-30T15:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "ccs3ap36c4qj8bb6ccsm4b9k61im2bb170rm8bb361j38or56grjap1pcc@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3161503261368000\"",
+   "id": "6pgm6dpi74qjib9p6ssjeb9k6ph64bb164rj0bb669hmacr269j3gcho64",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBnbTZkcGk3NHFqaWI5cDZzc2plYjlrNnBoNjRiYjE2NHJqMGJiNjY5aG1hY3IyNjlqM2djaG82NCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-02-03T17:40:30.000Z",
+   "updated": "2020-02-03T17:40:30.684Z",
+   "summary": "Wednesday ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-02-05T10:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-02-05T11:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6pgm6dpi74qjib9p6ssjeb9k6ph64bb164rj0bb669hmacr269j3gcho64@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3169777152534000\"",
+   "id": "64sm6ohm6oom6bb464o30b9k6hgm6b9p6opjgbb6c4sjgc9pc8o38pj66g",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRzbTZvaG02b29tNmJiNDY0bzMwYjlrNmhnbTZiOXA2b3BqZ2JiNmM0c2pnYzlwYzhvMzhwajY2ZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-03-22T14:49:36.000Z",
+   "updated": "2020-03-22T14:49:36.267Z",
+   "summary": "Cancel Tux",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-03-23T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-03-23T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "64sm6ohm6oom6bb464o30b9k6hgm6b9p6opjgbb6c4sjgc9pc8o38pj66g@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3183437925680000\"",
+   "id": "6gsm2d1o6co34b9jcoo36b9k6kom6bb2corj4b9k61hjidr16dh38cr4co",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmdzbTJkMW82Y28zNGI5amNvbzM2YjlrNmtvbTZiYjJjb3JqNGI5azYxaGppZHIxNmRoMzhjcjRjbyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-06-09T16:09:22.000Z",
+   "updated": "2020-06-09T16:09:22.840Z",
+   "summary": "Dentist Stefan 11:00am",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-07-13T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-07-13T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6gsm2d1o6co34b9jcoo36b9k6kom6bb2corj4b9k61hjidr16dh38cr4co@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3185279292462000\"",
+   "id": "6thm8e1o6gpjeb9p6thjeb9k75i34bb171gjab9o60qj4cpicks6acr2cg",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRobThlMW82Z3BqZWI5cDZ0aGplYjlrNzVpMzRiYjE3MWdqYWI5bzYwcWo0Y3BpY2tzNmFjcjJjZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-06-19T15:49:50.000Z",
+   "updated": "2020-06-20T07:54:06.231Z",
+   "summary": "2:40 haircut",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-06-20T14:40:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-06-20T15:40:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6thm8e1o6gpjeb9p6thjeb9k75i34bb171gjab9o60qj4cpicks6acr2cg@google.com",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3187083605958000\"",
+   "id": "c5hj6pb369ij8bb66hi34b9kc4q3ib9p6op66b9j64o3ep1h69ij0cpo6s",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzVoajZwYjM2OWlqOGJiNjZoaTM0YjlrYzRxM2liOXA2b3A2NmI5ajY0bzNlcDFoNjlpajBjcG82cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-06-30T18:30:02.000Z",
+   "updated": "2020-06-30T18:30:02.979Z",
+   "summary": "Williamsburg ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-07-18T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-07-18T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c5hj6pb369ij8bb66hi34b9kc4q3ib9p6op66b9j64o3ep1h69ij0cpo6s@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3187083727366000\"",
+   "id": "6pi62d9ocgs32bb361j3cb9k69h62bb16cojgb9icpgmaphn71gj2e1p70",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBpNjJkOW9jZ3MzMmJiMzYxajNjYjlrNjloNjJiYjE2Y29qZ2I5aWNwZ21hcGhuNzFnajJlMXA3MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-06-30T18:31:03.000Z",
+   "updated": "2020-06-30T18:31:03.683Z",
+   "summary": "Take off 1/2 shift on the 9th\nTake off 17th, 18th",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-06-30T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-06-30T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6pi62d9ocgs32bb361j3cb9k69h62bb16cojgb9icpgmaphn71gj2e1p70@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3189332389210000\"",
+   "id": "75i38oph75j34b9jc8ojcb9k6dgmcb9p65gj6b9nc8pj2pj3cgqm6e9k6s",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzVpMzhvcGg3NWozNGI5amM4b2pjYjlrNmRnbWNiOXA2NWdqNmI5bmM4cGoycGozY2dxbTZlOWs2cyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-07-13T18:49:54.000Z",
+   "updated": "2020-07-13T18:49:54.605Z",
+   "summary": "Dentist. Filling\n11:00am",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-08-24T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-08-24T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "75i38oph75j34b9jc8ojcb9k6dgmcb9p65gj6b9nc8pj2pj3cgqm6e9k6s@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3189884107744000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehh68cb2cho64q3gd9r3et9i6homar9gctlmsspidgpj8s9ndti64dj874s74tb7d8p6gp3975lj2qhg6cq30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaDY4Y2IyY2hvNjRxM2dkOXIzZXQ5aTZob21hcjlnY3RsbXNzcGlkZ3BqOHM5bmR0aTY0ZGo4NzRzNzR0YjdkOHA2Z3AzOTc1bGoycWhnNmNxMzAgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2018-06-17T19:52:41.000Z",
+   "updated": "2020-07-16T23:27:33.872Z",
+   "summary": "Stay at Hampton Inn & Suites Williamsburg-Richmond Rd.",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYthnGoc-RHAs68A7XkQ8moaqdf-YE3xI\n",
+   "location": "Hampton Inn & Suites Williamsburg-Richmond Rd., Williamsburg",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "date": "2018-06-26"
+   },
+   "end": {
+    "date": "2018-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tbd1bdpbhpjv7u24qem0gkns2l34q7odb6h98rugj2hdi9k1j0340",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": false
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYthnGoc-RHAs68A7XkQ8moaqdf-YE3xI",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3189884151232000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehlmms1id8p6ko9o6dl30tbdckrj4e1mdtr6kdhpedjnceb96hhmespi74r76db6doq3gsjhd0q36qhkc8sme",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobG1tczFpZDhwNmtvOW82ZGwzMHRiZGNrcmo0ZTFtZHRyNmtkaHBlZGpuY2ViOTZoaG1lc3BpNzRyNzZkYjZkb3EzZ3NqaGQwcTM2cWhrYzhzbWUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2020-07-16T23:27:33.000Z",
+   "updated": "2020-07-16T23:27:55.616Z",
+   "summary": "Stay at Ramada Plaza by Wyndham Virginia Beach",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN-Dvlx-BmYZmt8_DPzwL1zmvlBsASKBOQ\n",
+   "location": "Ramada Plaza by Wyndham Virginia Beach, Virginia Beach",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "date": "2020-07-18"
+   },
+   "end": {
+    "date": "2020-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tkkp2j2ja83j0ume7286ovj69sgv9i4cgs296s5fn48rqh43j4b9g",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": false
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN-Dvlx-BmYZmt8_DPzwL1zmvlBsASKBOQ",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3190218262052000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpeho6gr9m6hgmuobechom2qridhlm8phocgpmsrbl75nn2t3icoqjgohg68qjasr175hmeqr46thmss3mdth6e",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobzZncjltNmhnbXVvYmVjaG9tMnFyaWRobG04cGhvY2dwbXNyYmw3NW5uMnQzaWNvcWpnb2hnNjhxamFzcjE3NWhtZXFyNDZ0aG1zczNtZHRoNmUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2020-07-18T21:52:10.000Z",
+   "updated": "2020-07-18T21:52:11.026Z",
+   "summary": "Reservation at Black Angus Restaurant",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO4ktv8imZgTSxchqftHus3t5zO_HfYufM\n",
+   "location": "706 Atlantic Ave, Virginia Beach, VA 23451, USA",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2020-07-18T20:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2020-07-18T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tphm64aoandqakrlkdf8d3nmu9oqtrf58b0255sa9cgkd7cnpvobg",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO4ktv8imZgTSxchqftHus3t5zO_HfYufM",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3190641300646000\"",
+   "id": "cdgj4c1k60sj8b9p6ksjeb9kclh34b9o70omcb9hc8om4cj2c5j3gc35cc",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2RnajRjMWs2MHNqOGI5cDZrc2plYjlrY2xoMzRiOW83MG9tY2I5aGM4b200Y2oyYzVqM2djMzVjYyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-07-21T08:37:30.000Z",
+   "updated": "2020-07-21T08:37:30.323Z",
+   "summary": "The talk",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-09-13T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-09-13T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "cdgj4c1k60sj8b9p6ksjeb9kclh34b9o70omcb9hc8om4cj2c5j3gc35cc@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3190814850926000\"",
+   "id": "61h3cdj468ojebb164rj6b9k65j6cb9o75i62b9k6krjeoj371h32e1p68",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjFoM2NkajQ2OG9qZWJiMTY0cmo2YjlrNjVqNmNiOW83NWk2MmI5azZrcmplb2ozNzFoMzJlMXA2OCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2020-07-22T08:43:45.000Z",
+   "updated": "2020-07-22T08:43:45.463Z",
+   "summary": "Body wash",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-07-22T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2020-07-22T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "61h3cdj468ojebb164rj6b9k65j6cb9o75i62b9k6krjeoj371h32e1p68@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3235564175580000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehj68q9hehl3epbjdhk3gc9gdpgm2c37dcr36e3kchim6ebfelij6qjj6hr7crb9ddqn4e3de0qmso9jd5kme",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoajY4cTloZWhsM2VwYmpkaGszZ2M5Z2RwZ20yYzM3ZGNyMzZlM2tjaGltNmViZmVsaWo2cWpqNmhyN2NyYjlkZHFuNGUzZGUwcW1zbzlqZDVrbWUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2021-04-07T07:54:47.000Z",
+   "updated": "2021-04-07T07:54:47.790Z",
+   "summary": "Reservation at Ruth's Chris Steak House",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPsOvHYDhlqhqIYjezpPw0vGzgdUFwOchk\n",
+   "location": "For your records, your reservation is for a party of 2 on 04/09/2021 at \n6:30 PM at, 11500 W. Huguenot Road, Ruth's Chris Steak House - Richmond VA \n23113",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2021-04-09T18:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2021-04-09T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tfdi1tj7eslh810naa0gk638tdec9oue3js4vvmikur8mp5na3iig",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPsOvHYDhlqhqIYjezpPw0vGzgdUFwOchk",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3290608461090000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegpjgebae8p62p3769r76q1jekrm2q9ndljn2d9lc9mm8qjd71jnat39c5gj2eb5dlinar1ndoon2qhh6pl6e",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVncGpnZWJhZThwNjJwMzc2OXI3NnExamVrcm0ycTluZGxqbjJkOWxjOW1tOHFqZDcxam5hdDM5YzVnajJlYjVkbGluYXIxbmRvb24ycWhoNnBsNmUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-02-19T20:57:07.000Z",
+   "updated": "2022-02-19T20:57:10.545Z",
+   "summary": "Flight to Charlotte (AA 1911)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g\n",
+   "location": "Richmond RIC",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2022-05-14T07:10:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-05-14T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t389jr2adg2vsh3u7ai7mgq55bmdjm8gutiaa19emeul7n1qj16jg",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3290608461090000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehp6grjjckp64rbhe5pn4rpgclo30r3jc5mn0e9hdln3eobie9o3gdr3e4rj6tbie9n3cqra6pnn2r3675q6e",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVocDZncmpqY2twNjRyYmhlNXBuNHJwZ2NsbzMwcjNqYzVtbjBlOWhkbG4zZW9iaWU5bzNnZHIzZTRyajZ0YmllOW4zY3FyYTZwbm4ycjM2NzVxNmUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-02-19T20:57:07.000Z",
+   "updated": "2022-02-19T20:57:10.545Z",
+   "summary": "Flight to Montego Bay (AA 875)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g\n",
+   "location": "Charlotte CLT",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2022-05-14T11:10:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-05-14T14:06:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9trhnse2bmqqsro0ep0lsamp91mn7arrp87cq73urrn6kj6oqlf9tg",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3293223693736000\"",
+   "id": "coqm8chh6sqj6b9k6kqj8b9kcli6cb9p69ij0b9pcgpmcc1h6ss36dhnc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y29xbThjaGg2c3FqNmI5azZrcWo4YjlrY2xpNmNiOXA2OWlqMGI5cGNncG1jYzFoNnNzMzZkaG5jNCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2022-03-07T00:10:46.000Z",
+   "updated": "2022-03-07T00:10:46.868Z",
+   "summary": "I absolutely love you 😍 ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-03-11T08:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-03-11T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "coqm8chh6sqj6b9k6kqj8b9kcli6cb9p69ij0b9pcgpmcc1h6ss36dhnc4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3297122058160000\"",
+   "id": "c9h34c9o65j64b9p6di6ab9k70q38b9o6tijab9k6lh3ae1k74r36dpkcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzloMzRjOW82NWo2NGI5cDZkaTZhYjlrNzBxMzhiOW82dGlqYWI5azZsaDNhZTFrNzRyMzZkcGtjZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2022-03-29T13:37:08.000Z",
+   "updated": "2022-03-29T13:37:09.080Z",
+   "summary": "You complete my life 🥰😘",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-04-01T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-04-01T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "c9h34c9o65j64b9p6di6ab9k70q38b9o6tijab9k6lh3ae1k74r36dpkcg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3297122059018000\"",
+   "id": "6pij6db66dj32b9jcksj6b9kc4rm8bb1cormcbb1c5i64ob6c4p38dpo70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBpajZkYjY2ZGozMmI5amNrc2o2YjlrYzRybThiYjFjb3JtY2JiMWM1aTY0b2I2YzRwMzhkcG83MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2022-03-29T13:37:09.000Z",
+   "updated": "2022-03-29T13:37:09.509Z",
+   "summary": "I'm so proud of the man you've become ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-04-30T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-04-30T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "6pij6db66dj32b9jcksj6b9kc4rm8bb1cormcbb1c5i64ob6c4p38dpo70@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3299073388072000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegsjeebjelqj8p1o6tkj4d3adhh6ipb86dm3ie9n75jmqpb2dhh6ad3d6hnj2c1hccrmgt9ne9mjioj8d1k30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVnc2plZWJqZWxxajhwMW82dGtqNGQzYWRoaDZpcGI4NmRtM2llOW43NWptcXBiMmRoaDZhZDNkNmhuajJjMWhjY3JtZ3Q5bmU5bWppb2o4ZDFrMzAgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-04-09T20:38:14.000Z",
+   "updated": "2022-04-09T20:38:14.036Z",
+   "summary": "Reservation for The Tattersall Youth Development Center at The First Tee Chesterfield Golf Course",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOO18WRfFUmgQgCTidYdZRJ4Nz2zD8od0E\n",
+   "location": "The Tattersall Youth Development Center at The First Tee Chesterfield Golf Course, Virginia, United States, 23237",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2022-04-10T08:20:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-04-10T09:20:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t979suu4d87i24jlbieh3l9979gmeblbe4m4o101c7hu7rm9bhhh0",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOO18WRfFUmgQgCTidYdZRJ4Nz2zD8od0E",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3306788548712000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegp30rhndkpmkdb969j38qhl70o7appi65n64orlepm3cprcedq66eb1ctjn4rbjddq3erppedjmmcbacti30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVncDMwcmhuZGtwbWtkYjk2OWozOHFobDcwbzdhcHBpNjVuNjRvcmxlcG0zY3ByY2VkcTY2ZWIxY3RqbjRyYmpkZHEzZXJwcGVkam1tY2JhY3RpMzAgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-02-19T20:57:07.000Z",
+   "updated": "2022-05-24T12:11:14.356Z",
+   "summary": "Flight to Charlotte (AA 840)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g\n",
+   "location": "Montego Bay MBJ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2022-05-21T13:49:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-05-21T16:55:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t20n7m3j5i2f4j580ug21nbcuvl6glstc9aggrmskt7o9sgk1jgd0",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3306788548712000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehimudr36koj4shoegs74p386tq7asjeclk3gq37edq70rbme0s3cq9o6tin4cb36dmj8opnepnmgdjd6oo30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaW11ZHIzNmtvajRzaG9lZ3M3NHAzODZ0cTdhc2plY2xrM2dxMzdlZHE3MHJibWUwczNjcTlvNnRpbjRjYjM2ZG1qOG9wbmVwbm1nZGpkNm9vMzAgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-02-19T20:57:07.000Z",
+   "updated": "2022-05-24T12:11:14.356Z",
+   "summary": "Flight to Richmond (AA 1909)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g\n",
+   "location": "Charlotte CLT",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2022-05-21T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-05-21T19:41:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9teo7c512r8t8rdh7turneh8hgstpmvp86i87er1c3m4c7voh6m600",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPYDhef7FC04HOqJE0KIKT5PcL3X73uz8g",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3306788548712000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehl68p36dhpmaqb3dll6arbjddi68pb2eli36srhctm7cqrje8s70dhpc4s78rblc5i7ac9n6tp7ct1oecsj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobDY4cDM2ZGhwbWFxYjNkbGw2YXJiamRkaTY4cGIyZWxpMzZzcmhjdG03Y3FyamU4czcwZGhwYzRzNzhyYmxjNWk3YWM5bjZ0cDdjdDFvZWNzajAgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-03-17T16:44:47.000Z",
+   "updated": "2022-05-24T12:11:14.356Z",
+   "summary": "Flight to Dallas (AA 2204)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNKRysUi9xhXrcQbny7d9AUVIZSGKamn9k\n",
+   "location": "Richmond RIC",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2022-05-14T06:40:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-05-14T10:04:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tjddflseicmjemskddebud3sqglvksr8p69a8tmuadu177rvt8s90",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNKRysUi9xhXrcQbny7d9AUVIZSGKamn9k",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3306788548712000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehr6ctjgc4p6qq1mdhmmep9neho3ip35d5nmiq3dc5jmqrj16dm66dr1edl36ebme1pn8rjcdli7cq3jc5kj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVocjZjdGpnYzRwNnFxMW1kaG1tZXA5bmVobzNpcDM1ZDVubWlxM2RjNWptcXJqMTZkbTY2ZHIxZWRsMzZlYm1lMXBuOHJqY2RsaTdjcTNqYzVrajAgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-03-17T16:44:47.000Z",
+   "updated": "2022-05-24T12:11:14.356Z",
+   "summary": "Flight to Montego Bay (AA 2500)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNKRysUi9xhXrcQbny7d9AUVIZSGKamn9k\n",
+   "location": "Dallas DFW",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2022-05-14T11:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-05-14T15:20:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tvfvpa2mh6lmge7tp9deioihmagmna3lc7asj39vpstnlmdvhsai0",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNKRysUi9xhXrcQbny7d9AUVIZSGKamn9k",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3311135002618000\"",
+   "id": "ccr36e3560q38b9gccp3cb9k6hh3eb9pc5j3ibb5cpimad9j61im4o9nco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2NyMzZlMzU2MHEzOGI5Z2NjcDNjYjlrNmhoM2ViOXBjNWozaWJiNWNwaW1hZDlqNjFpbTRvOW5jbyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2022-06-18T15:51:41.000Z",
+   "updated": "2022-06-18T15:51:41.309Z",
+   "summary": "\"8 Free Online Harvard CS50 Computer Science Classes on edX\" https://www.businessinsider.com/guides/learning/harvard-cs50-online-computer-science-classes?amp",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-06-20T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-06-20T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "ccr36e3560q38b9gccp3cb9k6hh3eb9pc5j3ibb5cpimad9j61im4o9nco@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3314997357254000\"",
+   "id": "68pjgor46dhjgb9kc5j66b9k74oj2b9occrmabb6cgpmce3160o36or270",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhwamdvcjQ2ZGhqZ2I5a2M1ajY2YjlrNzRvajJiOW9jY3JtYWJiNmNncG1jZTMxNjBvMzZvcjI3MCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2022-07-11T00:17:58.000Z",
+   "updated": "2022-07-11T00:17:58.627Z",
+   "summary": "Pick up Jo",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-07-30T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2022-07-30T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "68pjgor46dhjgb9kc5j66b9k74oj2b9occrmabb6cgpmce3160o36or270@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3333308835250000\"",
+   "id": "ckq64chp6th34b9g69ijcb9kcoom8b9pcopj8b9g69hj8p9p6pi3epj5co",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2txNjRjaHA2dGgzNGI5ZzY5aWpjYjlrY29vbThiOXBjb3BqOGI5ZzY5aGo4cDlwNnBpM2VwajVjb18yMDE5MDkwMSBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-09-25T08:54:59.000Z",
+   "updated": "2022-10-24T23:33:37.625Z",
+   "summary": "Mortgage",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-09-01"
+   },
+   "end": {
+    "date": "2019-09-02"
+   },
+   "recurrence": [
+    "RRULE:FREQ=MONTHLY;UNTIL=20221031;INTERVAL=1;BYMONTHDAY=1"
+   ],
+   "iCalUID": "ckq64chp6th34b9g69ijcb9kcoom8b9pcopj8b9g69hj8p9p6pi3epj5co@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3333308916670000\"",
+   "id": "71j3ac9mc4q3ebb274q38b9k69j3gb9p71j3gbb6clh38chn60om2d1h6g",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFqM2FjOW1jNHEzZWJiMjc0cTM4YjlrNjlqM2diOXA3MWozZ2JiNmNsaDM4Y2huNjBvbTJkMWg2Z18yMDE5MDkxNCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-09-25T08:57:48.000Z",
+   "updated": "2022-10-24T23:34:18.335Z",
+   "summary": "Capital One Credit Card Payment",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-09-14"
+   },
+   "end": {
+    "date": "2019-09-15"
+   },
+   "recurrence": [
+    "RRULE:FREQ=MONTHLY;UNTIL=20221013;INTERVAL=1;BYMONTHDAY=14"
+   ],
+   "iCalUID": "71j3ac9mc4q3ebb274q38b9k69j3gb9p71j3gbb6clh38chn60om2d1h6g@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3333308928228000\"",
+   "id": "6di34d33c8om4bb260s62b9k6th62bb16cr3cbb36go3cd3465j66p9i74",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmRpMzRkMzNjOG9tNGJiMjYwczYyYjlrNnRoNjJiYjE2Y3IzY2JiMzZnbzNjZDM0NjVqNjZwOWk3NF8yMDE5MTExM1QxODMwMDBaIHN0ZWZoYWxsLjI3MDRAbQ",
+   "created": "2019-11-08T09:38:28.000Z",
+   "updated": "2022-10-24T23:34:24.114Z",
+   "summary": "Trash to curb",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-11-13T13:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2019-11-13T14:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;UNTIL=20221012T172959Z;INTERVAL=1;BYDAY=WE"
+   ],
+   "iCalUID": "6di34d33c8om4bb260s62b9k6th62bb16cr3cbb36go3cd3465j66p9i74@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3333308941400000\"",
+   "id": "60q64pb364qm8b9mc9gj2b9k6coj0b9p64s66b9g6spjiphl68q6aor664",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBxNjRwYjM2NHFtOGI5bWM5Z2oyYjlrNmNvajBiOXA2NHM2NmI5ZzZzcGppcGhsNjhxNmFvcjY2NF8yMDE5MDkwMyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-09-25T08:56:50.000Z",
+   "updated": "2022-10-24T23:34:30.700Z",
+   "summary": "Citi Credit Card Payment",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-09-03"
+   },
+   "end": {
+    "date": "2019-09-04"
+   },
+   "recurrence": [
+    "RRULE:FREQ=MONTHLY;UNTIL=20221002;INTERVAL=1;BYMONTHDAY=3"
+   ],
+   "iCalUID": "60q64pb364qm8b9mc9gj2b9k6coj0b9p64s66b9g6spjiphl68q6aor664@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3333308951120000\"",
+   "id": "c9j32oj5cgsmcb9i71i36b9k68p3gb9p6go66bb36ss6cdpg6ko3eohicg",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzlqMzJvajVjZ3NtY2I5aTcxaTM2YjlrNjhwM2diOXA2Z282NmJiMzZzczZjZHBnNmtvM2VvaGljZ18yMDE5MDkxNSBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-09-25T08:55:00.000Z",
+   "updated": "2022-10-24T23:34:35.560Z",
+   "summary": "Car insurance ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-09-15"
+   },
+   "end": {
+    "date": "2019-09-16"
+   },
+   "recurrence": [
+    "RRULE:FREQ=MONTHLY;UNTIL=20221014;INTERVAL=1;BYMONTHDAY=15"
+   ],
+   "iCalUID": "c9j32oj5cgsmcb9i71i36b9k68p3gb9p6go66bb36ss6cdpg6ko3eohicg@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3339540498326000\"",
+   "id": "jjcv4d2aa40c2613k7bid1fakk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ampjdjRkMmFhNDBjMjYxM2s3YmlkMWZha2sgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-11-25T13:50:21.000Z",
+   "updated": "2022-11-30T01:04:09.163Z",
+   "summary": "Pathrise Fellowship Interview: Stefan Michael Hall and Jennifer Ibarra",
+   "description": "Event Name: Pathrise SWE Fellowship Interview\n\nMeet with one of our Admissions team members to discuss your job search goals, understand more about your SWE background, and see if Pathrise and mentorship from VP and Senior level leaders in the Software Engineering space could be helpful.\n\n\nAgenda:\n\n1. Intro to Pathrise\n2. Learn about your background\n3. Discuss your career goals\n4. Determine if Pathrise can/can’t help\n5. Questions & next steps\n\nLocation: This is a Google Meet web conference.\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps://calendly.com/events/b4616666-cce9-4d12-b448-e90e4bad6acb/google_meet\n\nPhone number: 4349625099\n\nTime zone:: ET\n\nAre you interested in being contacted sooner than your scheduled call date?: Yes\n\nIf yes, please list days available in the next week:: Tuesday\n\nGeneral time available:: 3pm to 6pm\n\nCancellation Policy: No-showing to this interview may result in a 1 year disqualification of your fellowship application. 24 hour notice is needed if rescheduling is necessary.\n\nNeed to make changes to this event?\nCancel: https://calendly.com/cancellations/828f1149-519a-4a56-a7f3-2a7306b4d2de\nReschedule: https://calendly.com/reschedulings/828f1149-519a-4a56-a7f3-2a7306b4d2de\n\nPowered by Calendly.com\n\n\u003ca href=https://pathrise-burrow.herokuapp.com/admissions/swe?assigned_email=jennifer%40pathrise.com&email=stefhall.2704%40gmail.com&name=Stefan+Hall&phone=14349625099&salesforce_uuid=00QK5000001aBzIMAU\u003eMentor Notes\u003c/a\u003e",
+   "location": "Google Meet (instructions in description)",
+   "creator": {
+    "email": "jennifer@pathrise.com"
+   },
+   "organizer": {
+    "email": "jennifer@pathrise.com"
+   },
+   "start": {
+    "dateTime": "2022-11-30T16:30:00-05:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2022-11-30T16:55:00-05:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "jjcv4d2aa40c2613k7bid1fakk@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "jennifer@pathrise.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/qkh-joub-ryx",
+   "conferenceData": {
+    "createRequest": {
+     "requestId": "8a1b5cf2-6de2-43ef-94dd-10a48c441646",
+     "conferenceSolutionKey": {
+      "type": "hangoutsMeet"
+     },
+     "status": {
+      "statusCode": "success"
+     }
+    },
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/qkh-joub-ryx",
+      "label": "meet.google.com/qkh-joub-ryx"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/qkh-joub-ryx?pin=4452708556980",
+      "pin": "4452708556980"
+     },
+     {
+      "regionCode": "US",
+      "entryPointType": "phone",
+      "uri": "tel:+1-631-623-0172",
+      "label": "+1 631-623-0172",
+      "pin": "832443321"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "qkh-joub-ryx"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340698075714000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehkm4t9pclkj2cbeellnachjd5q78sr871lm4d1iehk7ae9jclq66qrhe9incc3gdphn4ebmehn6odr2d9ime",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoa200dDlwY2xrajJjYmVlbGxuYWNoamQ1cTc4c3I4NzFsbTRkMWllaGs3YWU5amNscTY2cXJoZTlpbmNjM2dkcGhuNGVibWVobjZvZHIyZDlpbWUgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2021-12-13T01:35:03.000Z",
+   "updated": "2022-12-06T17:50:37.857Z",
+   "summary": "Reservation at The Melting Pot - Richmond",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DP0HxZOQou1KzUX8HJmE0MkpP_cmmLtjYk\n",
+   "location": "The Melting Pot - Richmond, 9704 Gayton Road, Richmond, VA, United States, 23233",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2021-12-18T19:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2021-12-18T20:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tibu9ei11nuku23ittsh8kb42thu93etckqrev0pncr9vtnl7bjeg",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DP0HxZOQou1KzUX8HJmE0MkpP_cmmLtjYk",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340698081904000\"",
+   "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6gpj8dpo8os4cg9l8gok8dpg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6osk4e2684ojcdq26523egpk74skahhk68o4cda58913edi46srg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2Z3BqOGRwbzhvczRjZzlsOGdvazhkcGc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNm9zazRlMjY4NG9qY2RxMjY1MjNlZ3BrNzRza2FoaGs2OG80Y2RhNTg5MTNlZGk0NnNyZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2021-11-04T18:09:26.000Z",
+   "updated": "2022-12-06T17:50:40.952Z",
+   "summary": "Welcome Call | CFA + Stefan",
+   "description": "Hi Team,\n\nLook forward to Kyle, Cam, and Stefan connecting!\n\nThanks,\nDashon\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer or mobile app\nClick here to join the meeting\u003chttps://teams.microsoft.com/l/meetup-join/19%3ameeting_OTgwNWZiMTItZTk1NS00NWUxLTljMzYtNzhmZDhlYWQ5NmI1%40thread.v2/0?context=%7b%22Tid%22%3a%22371cb917-b098-4303-b878-c182ec8403ac%22%2c%22Oid%22%3a%22a7de4ba6-19c4-4c7c-aec3-f132cb703770%22%7d\u003e\nJoin with a video conferencing device\nallegisgroup@m.webex.com\nVideo Conference ID: 116 437 183 5\nAlternate VTC instructions\u003chttps://www.webex.com/msteams?confid=1164371835&tenantkey=allegisgroup&domain=m.webex.com\u003e\nOr call in (audio only)\n+1 443-842-5034,,822882379#\u003ctel:+14438425034,,822882379#\u003e   United States, Baltimore\nPhone Conference ID: 822 882 379#\nFind a local number\u003chttps://dialin.teams.microsoft.com/74c8b0a1-7f02-4573-bcaa-70e1c5f47cab?id=822882379\u003e | Reset PIN\u003chttps://mysettings.lync.com/pstnconferencing\u003e\nLearn More\u003chttps://aka.ms/JoinTeamsMeeting\u003e | Meeting options\u003chttps://teams.microsoft.com/meetingOptions/?organizerId=a7de4ba6-19c4-4c7c-aec3-f132cb703770&tenantId=371cb917-b098-4303-b878-c182ec8403ac&threadId=19_meeting_OTgwNWZiMTItZTk1NS00NWUxLTljMzYtNzhmZDhlYWQ5NmI1@thread.v2&messageId=0&language=en-US\u003e\n________________________________________________________________________________\n\n\nThis electronic mail (including any attachments) may contain information that is privileged, confidential, and/or otherwise protected from disclosure to anyone other than its intended recipient(s). Any dissemination or use of this electronic mail or its contents (including any attachments) by persons other than the intended recipient(s) is strictly prohibited. If you have received this message in error, please notify us immediately by reply e-mail so that we may correct our internal records. Please then delete the original message (including any attachments) in its entirety. Thank you\n",
+   "location": "Microsoft Teams Meeting",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "datibbs@teksystems.com",
+    "displayName": "Tibbs, Dashon"
+   },
+   "start": {
+    "dateTime": "2021-11-08T08:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2021-11-08T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "040000008200E00074C5B7101A82E0080000000043478F8FA5D1D70100000000000000001000000069B8FA167B1D7C499EF420F5EBB76D77",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "cam.barts@cfainstitute.org",
+     "displayName": "Cam Barts - CW",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "kyle.carmitchel@cfainstitute.org",
+     "displayName": "Kyle Carmitchel",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "lmosely@teksystems.com",
+     "displayName": "Mosely, Laura",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "sahunter@teksystems.com",
+     "displayName": "Layne, Sarah",
+     "responseStatus": "needsAction"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340698085748000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegp3eq3cdcs6kojf69l72q3h70p32pb675r6asj76ksm4cja6oqjee1p6soncrr46hr6mthp74rn8sj7e5ij0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVncDNlcTNjZGNzNmtvamY2OWw3MnEzaDcwcDMycGI2NzVyNmFzajc2a3NtNGNqYTZvcWplZTFwNnNvbmNycjQ2aHI2bXRocDc0cm44c2o3ZTVpajAgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2022-01-22T21:25:54.000Z",
+   "updated": "2022-12-06T17:50:42.874Z",
+   "summary": "Stay at Fairfield Inn & Suites by Marriott Staunton",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPo-TN0X3pELP75TQ1viDx1r4WHdJgM-ZM\n",
+   "location": "114 Crossing Way, Staunton, VA 24401, USA",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "date": "2022-01-22"
+   },
+   "end": {
+    "date": "2022-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t27hlk8jbo2jqhq821ef9verg59b2j6578971vod4vkv997trgqe0",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": false
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPo-TN0X3pELP75TQ1viDx1r4WHdJgM-ZM",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340698089586000\"",
+   "id": "_6hh38e1iccrm6b9h6so3ib9k60pjgb9p6ks32bb56go3ed9hcpi3cp9o68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZoaDM4ZTFpY2NybTZiOWg2c28zaWI5azYwcGpnYjlwNmtzMzJiYjU2Z28zZWQ5aGNwaTNjcDlvNjggc3RlZmhhbGwuMjcwNEBt",
+   "created": "2021-03-05T18:13:41.000Z",
+   "updated": "2022-12-06T17:50:44.793Z",
+   "summary": "Virginia Credit Union Phone Appointment",
+   "description": "Confirmed Date & Time: Wed, Mar 10 2021 (EST) 1:30 PM\nConfirmation Number: F5KDHEE2\nLocation: Southpark\n\n\nService requested: Wire/Funds Transfer\nDuration: 60 Minutes\n\nThis is a phone appointment. A staff member will call you at the number specified below.\n\nCustomer Information:\nStefan Hall\nstefhall.2704@gmail.com\n(804) 502-6276\n\n\nCancel / Change appointment : https://oac.fmsiportal.com/AppointmentWidget?cnCode=F5KDHEE2\n\n\n",
+   "location": "Phone Appointment",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "appointment@vacu.org",
+    "displayName": "Virginia Credit Union"
+   },
+   "start": {
+    "dateTime": "2021-03-10T13:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2021-03-10T14:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "iCalUID": "4b482c7c-1709-4038-9581-e40751fd6e82",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "needsAction"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340698093720000\"",
+   "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g8gs34gq58krj8d1m8cq48dpg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6sokaci674r3cchj692jcchk6ksjgda48ks32e1n8gq4cg9i712g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4Z3MzNGdxNThrcmo4ZDFtOGNxNDhkcGc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNnNva2FjaTY3NHIzY2NoajY5MmpjY2hrNmtzamdkYTQ4a3MzMmUxbjhncTRjZzlpNzEyZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2021-10-20T16:13:48.000Z",
+   "updated": "2022-12-06T17:50:46.860Z",
+   "summary": "Interview | Kyle + Stefan",
+   "description": "Stefan,\nI appreciate you making yourself available to interview via Microsoft Teams Wednesday October 20th, 2021, at 2:00 PM EST with CFA Institute. Please make sure that you are ready to speak to all of the required skill sets and your related experience. I have included the information for your interview below. Please make sure you are ready 5 minutes before hand in a quiet place with great lighting. Also, make sure you have something to write with to take notes and write down any questions you have.\nInterview:  Video Microsoft Teams\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer or mobile app\nClick here to join the meeting\u003chttps://teams.microsoft.com/l/meetup-join/19%3ameeting_MjIxZTg2NmUtOTFiYi00YjdlLWFmMTAtNmQyMWE5NTk1MjQw%40thread.v2/0?context=%7b%22Tid%22%3a%22371cb917-b098-4303-b878-c182ec8403ac%22%2c%22Oid%22%3a%22a7de4ba6-19c4-4c7c-aec3-f132cb703770%22%7d\u003e\nJoin with a video conferencing device\nallegisgroup@m.webex.com\nVideo Conference ID: 114 374 327 8\nAlternate VTC instructions\u003chttps://www.webex.com/msteams?confid=1143743278&tenantkey=allegisgroup&domain=m.webex.com\u003e\nOr call in (audio only)\n+1 443-842-5034,,933501323#\u003ctel:+14438425034,,933501323#\u003e   United States, Baltimore\nPhone Conference ID: 933 501 323#\nFind a local number\u003chttps://dialin.teams.microsoft.com/74c8b0a1-7f02-4573-bcaa-70e1c5f47cab?id=933501323\u003e | Reset PIN\u003chttps://mysettings.lync.com/pstnconferencing\u003e\nLearn More\u003chttps://aka.ms/JoinTeamsMeeting\u003e | Meeting options\u003chttps://teams.microsoft.com/meetingOptions/?organizerId=a7de4ba6-19c4-4c7c-aec3-f132cb703770&tenantId=371cb917-b098-4303-b878-c182ec8403ac&threadId=19_meeting_MjIxZTg2NmUtOTFiYi00YjdlLWFmMTAtNmQyMWE5NTk1MjQw@thread.v2&messageId=0&language=en-US\u003e\n________________________________________________________________________________\n\nYou will be interviewing with:\n\n  *   Kyle Carmitchel, IT Service Transition Manager, https://www.linkedin.com/in/kyle-carmitchel-8152a319/\n\n     *   Kyle is going to want to hear about your passion for technology, experience with Cam Barts, and any relevant experience.\n\nCFA Institute’s Story: https://www.cfainstitute.org/en/about/vision\nInterview length and structure:\n\n  *   The interview should last approximately 30 minutes, but please allow for extra time in case it runs a little long.\nAside from being confident in discussing your experience and knowledge, you also want to make sure that you (1) Sound professional (2) provide detailed answers and (3) express your interest in the position. In addition, please make sure that you are prepared to take any notes and ask questions about the position that you have. Please contact your recruiter after the interview so that we can discuss your thoughts and impressions.\nPosition\nThe focus of this JR DevOps Engineer will be on Operations development. This group is looking to build the best-in-class automated reports, build out change management templates, work on custom built .NET application, and use SQL/PowerBI for metrics.\n\nJob Description\n• Responsible for first class JIRA administration.\n• Assist teams in buildings custom integrations between tools.\n• Assist in building centralized data reporting from multiple sources.\n• Responsible for facilitating collaboration in a fast paced, DevOps oriented environment while working independently with a high level of self-motivation.\nInterviewing\nhttp://www.job-interview.net/  - Job interview tips and thousands of sample interview questions and answers\n\n\nThis electronic mail (including any attachments) may contain information that is privileged, confidential, and/or otherwise protected from disclosure to anyone other than its intended recipient(s). Any dissemination or use of this electronic mail or its contents (including any attachments) by persons other than the intended recipient(s) is strictly prohibited. If you have received this message in error, please notify us immediately by reply e-mail so that we may correct our internal records. Please then delete the original message (including any attachments) in its entirety. Thank you\n",
+   "location": "Microsoft Teams",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "datibbs@teksystems.com",
+    "displayName": "Tibbs, Dashon"
+   },
+   "start": {
+    "dateTime": "2021-10-20T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2021-10-20T14:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "040000008200E00074C5B7101A82E00800000000D82CEE7446C4D70100000000000000001000000071E2F966232E6245985DE8187D4FA28E",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "lmosely@teksystems.com",
+     "displayName": "Mosely, Laura",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "sahunter@teksystems.com",
+     "displayName": "Layne, Sarah",
+     "responseStatus": "needsAction"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340698096656000\"",
+   "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g84q3gca174q30gph690k8d9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6or42h9l8d24ce9h8d0jcd1k6os4aea48kpj6gpi88sj4e1p8p20",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4NHEzZ2NhMTc0cTMwZ3BoNjkwazhkOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNm9yNDJoOWw4ZDI0Y2U5aDhkMGpjZDFrNm9zNGFlYTQ4a3BqNmdwaTg4c2o0ZTFwOHAyMCBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2019-06-24T19:15:58.000Z",
+   "updated": "2022-12-06T17:50:48.328Z",
+   "summary": "Stefan - interview w/Gary Bowman",
+   "description": "Stefan,\n\nThank you for getting back to me.  I have scheduled you to attend an interview with Mr. Bowman on Monday, June 24th, 2019 at 7:30 PM.  The information needed to join him is listed in the previous email.  Let me know if you have any questions.  If for any reason you are unable to attend this call, please let me know at least one hour before the scheduled time so to allow me the opportunity to offer the opportunity to the next eligible person.\n\n\nKaren\nOffice Assistant\n\n\nFrom: Stefan Hall \u003cstefhall.2704@gmail.com\u003e\nDate: Monday, June 24, 2019 at 2:42 PM\nTo: Richmond Division \u003cRichmond.Division@USHAcareers.com\u003e\nSubject: Re: Your resume has been reviewed\n\nHello this is Stefan, I was confirming the webinar for 7:30 P.M. today.\nThank!\n\nOn Mon, Jun 24, 2019, 12:57 PM Richmond Division \u003cRichmond.Division@ushacareers.com\u003cmailto:Richmond.Division@ushacareers.com\u003e\u003e wrote:\n\nStefan,\n\n\n\nAfter reviewing your resume, I spoke with our Divisional Leader, Gary Bowman.  He would like to have you join him on a LIVE teleconference (conference call) / webinar (a webinar is where you are able to login & view his computer screen from your location) so to introduce you to our company and to answer any specific questions you have.\n\n\n\nThis webinar is to give you an overview of our company.  We realize and understand that your availability of time for an interview may be limited due to you possibly still working thus the reason for this method, it allows each us to be more flexible in our schedule.  If there is a mutual interest, we will then discuss the specific positions, compensation, benefits, training, job duties, etc.\n\n\nAfterwards I would like to speak with you to discuss the next steps in moving forward with our hiring process.\n\nThe details for the webinar are listed below:\n\n\n\nDate and time:\n\n  *   Monday, June 24th @ 7:30 PM EDT\n  *   Wednesday, June 26th @ 4:30 PM EDT\n\n\n\nWebinar Link: https://www.startmeeting.com/wall/ushadvisors\u003chttps://protect-us.mimecast.com/s/IU5SCL915yHkkvkYHBhO_Y?domain=startmeeting.com\u003e\nDial In Number: 701-801-1211\nAccess Code: 184-711-588#\n\nWhen you log into the event, please register your NAME, EMAIL and PHONE NUMBER\n\n\n\nPlease reply to confirm the meeting time.\n\nThank you and,\n\nHave A BLESSED Day!\n\nKaren\nOffice Assistant\nRichmond Division\n\n",
+   "location": "Online Conference Call / Webinar ",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "richmond.division@ushacareers.com",
+    "displayName": "Richmond Division"
+   },
+   "start": {
+    "dateTime": "2019-06-24T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2019-06-24T20:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "iCalUID": "040000008200E00074C5B7101A82E00800000000A481A940C12AD50100000000000000001000000066AE5CDF91CA64468E9DE33C2B9289FD",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "declined"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3349378990610000\"",
+   "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g8gpj0h1h8l33ic9k6cok8e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6123ecq2890jie9i60pj0dpk8cs44gi28osj0d1p6sok8e1g6oog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4Z3BqMGgxaDhsMzNpYzlrNmNvazhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNjEyM2VjcTI4OTBqaWU5aTYwcGowZHBrOGNzNDRnaTI4b3NqMGQxcDZzb2s4ZTFnNm9vZyBzdGVmaGFsbC4yNzA0QG0",
+   "created": "2023-01-25T23:30:15.000Z",
+   "updated": "2023-01-25T23:31:35.305Z",
+   "summary": "Interview",
+   "description": "Your appointment will be with Tyler Fay.\n\nTyler Fay - Opportunity Conversations\n7049980407\n\n\nManage Booking\u003chttps://outlook.office365.com:443/owa/calendar/TylerFayOpportunityConversations@azurebeaconhillsg.onmicrosoft.com/bookings/XIGqQy74UEKxf3JWeZR8xg2\u003e\n\n",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "tylerfayopportunityconversations@azurebeaconhillsg.onmicrosoft.com",
+    "displayName": "Tyler Fay - Opportunity Conversations"
+   },
+   "start": {
+    "dateTime": "2023-01-27T11:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2023-01-27T11:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "040000008200E00074C5B7101A82E00800000000D30D1EF91431D9010000000000000000100000000D73BBA99203074C8BBBF904971D8061",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3376968797390000\"",
+   "id": "n978mlkgn2olripu5hupochegc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bjk3OG1sa2duMm9scmlwdTVodXBvY2hlZ2Mgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2023-07-04T15:26:05.000Z",
+   "updated": "2023-07-04T15:26:38.695Z",
+   "summary": "Interview Kickstart Webinar: How to Nail your next Technical Interview",
+   "description": "Hi Stefan,\nThank you for reserving a spot for How to Nail your next Technical Interview.\nPlease click this URL to join. www.interviewkickstart.com/su/dqN07fX",
+   "location": "www.interviewkickstart.com/su/dqN07fX",
+   "creator": {
+    "email": "webinar2@interviewkickstart.com"
+   },
+   "organizer": {
+    "email": "webinar2@interviewkickstart.com"
+   },
+   "start": {
+    "dateTime": "2023-07-04T20:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2023-07-04T21:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "iCalUID": "n978mlkgn2olripu5hupochegc@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "stefhall.2704@gmail.com",
+     "self": true,
+     "responseStatus": "needsAction"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3399854380956000\"",
+   "id": "60i3ggq4j64nfqmd065486g9f2",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBpM2dncTRqNjRuZnFtZDA2NTQ4Nmc5ZjIgc3RlZmhhbGwuMjcwNEBt",
+   "created": "2023-11-14T01:59:50.000Z",
+   "updated": "2023-11-14T01:59:50.478Z",
+   "summary": "Testing event",
+   "creator": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "stefhall.2704@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-21"
+   },
+   "end": {
+    "date": "2023-12-22"
+   },
+   "transparency": "transparent",
+   "iCalUID": "60i3ggq4j64nfqmd065486g9f2@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  }
+ ]
+}

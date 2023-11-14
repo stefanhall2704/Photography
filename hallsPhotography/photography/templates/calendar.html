@@ -129,6 +129,112 @@
     }
   </style>
 
+
+
+
+<!-- Example script to update the calendar -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Get the events from the hidden input element
+    const eventsInput = document.getElementById("events");
+    const eventsString = eventsInput.value;
+
+    console.log("Events String:", eventsString); // Log the events string to the console
+
+    try {
+      // Replace 'True' with 'true' and 'False' with 'false'
+      const correctedEventsString = eventsString.replace(/True/g, 'true').replace(/False/g, 'false');
+
+      // Use eval() to parse the string as JavaScript object
+      const events = eval('(' + correctedEventsString + ')');
+
+      // Create a dialog element
+      const dialog = document.createElement("dialog");
+      document.body.appendChild(dialog);
+
+      // Create an object to store the count of events per day
+      const eventCountPerDay = {};
+
+      // Loop through each event and update the eventCountPerDay object
+      events.forEach(function (event) {
+        const eventDate = new Date(event.start.date).getDate();
+        if (eventCountPerDay[eventDate]) {
+          eventCountPerDay[eventDate]++;
+        } else {
+          eventCountPerDay[eventDate] = 1;
+        }
+      });
+
+      // Loop through each day in the calendar
+      const tableDataElements = document.querySelectorAll("table td");
+      tableDataElements.forEach(function (td) {
+        const day = parseInt(td.textContent.trim());
+
+        // Check if events exist for the current day
+        if (eventCountPerDay[day]) {
+          // Check if multiple events exist for the current day
+          if (eventCountPerDay[day] > 1) {
+            td.style.backgroundColor = "#ccc"; // Change background color to gray
+          } else {
+            td.style.backgroundColor = "#3498db"; // Change background color for a single event
+            td.style.cursor = "pointer"; // Change cursor to indicate it's clickable
+
+            // Add an event listener to open the dialog on click
+            td.addEventListener("click", function () {
+              // Clear previous content
+              while (dialog.firstChild) {
+                dialog.removeChild(dialog.firstChild);
+              }
+
+              // Create a title for the dialog
+              const title = document.createElement("h2");
+              title.textContent = `Events for Day ${day}`;
+              dialog.appendChild(title);
+
+              // Create an unordered list to display events
+              const eventsList = document.createElement("ul");
+
+              // Loop through events for the current day and add them to the list
+              events.forEach(function (event) {
+                const eventDate = new Date(event.start.date).getDate();
+                if (eventDate === day) {
+                  const listItem = document.createElement("li");
+                  listItem.textContent = event.summary;
+                  eventsList.appendChild(listItem);
+                }
+              });
+
+              // Add the events list to the dialog
+              dialog.appendChild(eventsList);
+
+              // Create a close button
+              const closeButton = document.createElement("button");
+              closeButton.textContent = "Close";
+              closeButton.addEventListener("click", function () {
+                // Close the dialog
+                dialog.close();
+              });
+
+              // Add the close button to the dialog
+              dialog.appendChild(closeButton);
+
+              // Show the dialog
+              dialog.showModal();
+            });
+          }
+        } else {
+          // If no events for the current day, set the cursor to default
+          td.style.cursor = "default";
+        }
+      });
+    } catch (error) {
+      console.error("Error parsing JSON:", error);
+    }
+  });
+</script>
+
+
+
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       // Get the day value from the hidden input element
@@ -179,6 +285,7 @@
 <input id="day" type="hidden" value="{{day}}" />
 <input id="month" type="hidden" value="{{month}}" />
 <input id="year" type="hidden" value="{{year}}" />
+<input id="events" type="hidden" value="{{events}}" />
 <div class="pagination">
   <div class="pagination_buttons">
     <button id="previous" onclick="changeMonth(-1)">Previous Month</button>

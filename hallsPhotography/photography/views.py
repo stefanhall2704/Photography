@@ -1,4 +1,5 @@
 import datetime
+from datetime import timedelta
 import calendar
 from django.shortcuts import render, redirect
 from django.contrib.auth import logout, get_user_model
@@ -8,6 +9,7 @@ from photography.s3 import S3Storage
 from rest_framework.decorators import api_view
 import tempfile
 from django.http import JsonResponse
+from photography.google_calendar import get_google_calendar_events 
 from photography.dependencies import get_database
 from photography.crud.package import (
     create_database_package,
@@ -177,6 +179,22 @@ def create_package(request):
         context={"request": request, "user": user},
     )
 
+def get_month_range(year, month):
+    # Create the first day of the month
+    start_time = datetime.datetime(year, month, 1, 0, 0, 0, 0).strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
+
+    # Calculate the last day of the month
+    next_month = datetime.datetime(year, month, 28) + timedelta(days=4)  # Adding 4 days ensures we go to the next month
+    end_time = (next_month - timedelta(days=next_month.day)).strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
+
+    # Create and return the dictionary
+    result_dict = {
+        'start_time': start_time,
+        'end_time': end_time
+    }
+
+    return result_dict
+
 @login_required
 def schedule_session(request, year: int = datetime.date.today().year, month: int = datetime.date.today().month):
     User = get_user_model()
@@ -194,8 +212,10 @@ def schedule_session(request, year: int = datetime.date.today().year, month: int
         day = current_date.day
     else:
         day = 0
+    dates = get_month_range(year=year, month=month)
+    events = get_google_calendar_events(start_time=dates["start_time"], end_time=dates["end_time"])
     return render(
         request,
         "calendar.html",
-        context={"request": request, "user": user, "calendar":text_cal.formatmonth(year, month), "day": day, "month": month, "year": year},
+        context={"request": request, "user": user, "calendar":text_cal.formatmonth(year, month), "day": day, "month": month, "year": year, "events": events},
     )
