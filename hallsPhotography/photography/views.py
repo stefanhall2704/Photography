@@ -212,10 +212,8 @@ def schedule_session(request, year: int = datetime.date.today().year, month: int
         day = current_date.day
     else:
         day = 0
-    dates = get_month_range(year=year, month=month)
-    events = get_google_calendar_events(start_time=dates["start_time"], end_time=dates["end_time"])
     return render(
         request,
         "calendar.html",
-        context={"request": request, "user": user, "calendar":text_cal.formatmonth(year, month), "day": day, "month": month, "year": year, "events": events},
+        context={"request": request, "user": user, "calendar":text_cal.formatmonth(year, month), "day": day, "month": month, "year": year},
     )

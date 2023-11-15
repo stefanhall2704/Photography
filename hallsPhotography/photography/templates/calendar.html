@@ -134,105 +134,114 @@
 
 <!-- Example script to update the calendar -->
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Get the events from the hidden input element
-    const eventsInput = document.getElementById("events");
-    const eventsString = eventsInput.value;
 
-    console.log("Events String:", eventsString); // Log the events string to the console
+document.addEventListener("DOMContentLoaded", function () {
+  const currentMonth = parseInt($("#month").val());
+  const currentYear = parseInt($("#year").val());
+  
+  // Calculate the last day of the current month
+  const lastDay = new Date(currentYear, currentMonth, 0).getDate();
 
-    try {
-      // Replace 'True' with 'true' and 'False' with 'false'
-      const correctedEventsString = eventsString.replace(/True/g, 'true').replace(/False/g, 'false');
+  const start_time = `${currentYear}-${currentMonth}-01T00:00:00Z`;
+  const end_time = `${currentYear}-${currentMonth}-${lastDay}T23:59:59Z`;
 
-      // Use eval() to parse the string as JavaScript object
-      const events = eval('(' + correctedEventsString + ')');
+  fetch('/get-events/?start_time=' + start_time + '&end_time=' + end_time)
+    .then(response => response.json())
+    .then(data => {
+      try {
+        console.log('Fetched Data:', data);
+        // Ensure that the fetched data contains events
+        if (Array.isArray(data)) {
+          const events = data;
+          console.log('Events:', events);
+          const dialog = document.createElement("dialog");
+          document.body.appendChild(dialog);
 
-      // Create a dialog element
-      const dialog = document.createElement("dialog");
-      document.body.appendChild(dialog);
+          const eventCountPerDay = {};
 
-      // Create an object to store the count of events per day
-      const eventCountPerDay = {};
-
-      // Loop through each event and update the eventCountPerDay object
-      events.forEach(function (event) {
-        const eventDate = new Date(event.start.date).getDate();
-        if (eventCountPerDay[eventDate]) {
-          eventCountPerDay[eventDate]++;
-        } else {
-          eventCountPerDay[eventDate] = 1;
-        }
-      });
-
-      // Loop through each day in the calendar
-      const tableDataElements = document.querySelectorAll("table td");
-      tableDataElements.forEach(function (td) {
-        const day = parseInt(td.textContent.trim());
-
-        // Check if events exist for the current day
-        if (eventCountPerDay[day]) {
-          // Check if multiple events exist for the current day
-          if (eventCountPerDay[day] > 1) {
-            td.style.backgroundColor = "#ccc"; // Change background color to gray
-          } else {
-            td.style.backgroundColor = "#3498db"; // Change background color for a single event
-            td.style.cursor = "pointer"; // Change cursor to indicate it's clickable
-
-            // Add an event listener to open the dialog on click
-            td.addEventListener("click", function () {
-              // Clear previous content
-              while (dialog.firstChild) {
-                dialog.removeChild(dialog.firstChild);
-              }
-
-              // Create a title for the dialog
-              const title = document.createElement("h2");
-              title.textContent = `Events for Day ${day}`;
-              dialog.appendChild(title);
-
-              // Create an unordered list to display events
-              const eventsList = document.createElement("ul");
-
-              // Loop through events for the current day and add them to the list
-              events.forEach(function (event) {
-                const eventDate = new Date(event.start.date).getDate();
-                if (eventDate === day) {
-                  const listItem = document.createElement("li");
-                  listItem.textContent = event.summary;
-                  eventsList.appendChild(listItem);
+          events.forEach(function (event) {
+            // console.log('Event:', event);
+            if (event.start && event.start.dateTime) {
+              
+              const eventDate = new Date(event.start.dateTime);
+              
+              // Check if the event falls within the current month
+              if (
+                eventDate.getFullYear() === currentYear &&
+                eventDate.getMonth() + 1 === currentMonth
+              ) {
+                const dayOfMonth = eventDate.getDate();
+                if (eventCountPerDay[dayOfMonth]) {
+                  eventCountPerDay[dayOfMonth]++;
+                } else {
+                  eventCountPerDay[dayOfMonth] = 1;
                 }
-              });
+              }
+            }
+          });
 
-              // Add the events list to the dialog
-              dialog.appendChild(eventsList);
+          const tableDataElements = document.querySelectorAll("table td");
+          tableDataElements.forEach(function (td) {
+            const day = parseInt(td.textContent.trim());
 
-              // Create a close button
-              const closeButton = document.createElement("button");
-              closeButton.textContent = "Close";
-              closeButton.addEventListener("click", function () {
-                // Close the dialog
-                dialog.close();
-              });
+            if (eventCountPerDay[day]) {
+              if (eventCountPerDay[day] > 1) {
+                td.style.backgroundColor = "#ccc";
+              } else {
+                td.style.backgroundColor = "#3498db";
+                td.style.cursor = "pointer";
 
-              // Add the close button to the dialog
-              dialog.appendChild(closeButton);
+                td.addEventListener("click", function () {
+                  while (dialog.firstChild) {
+                    dialog.removeChild(dialog.firstChild);
+                  }
 
-              // Show the dialog
-              dialog.showModal();
-            });
-          }
+                  const title = document.createElement("h2");
+                  title.textContent = `Events for Day ${day}`;
+                  dialog.appendChild(title);
+
+                  const eventsList = document.createElement("ul");
+                  events.forEach(function (event) {
+                    if (
+                      event.start &&
+                      event.start.dateTime &&
+                      new Date(event.start.dateTime).getDate() === day
+                    ) {
+                      const listItem = document.createElement("li");
+                      console.log(event);
+                      listItem.textContent = event.summary;
+                      eventsList.appendChild(listItem);
+                    }
+                  });
+
+                  dialog.appendChild(eventsList);
+
+                  const closeButton = document.createElement("button");
+                  closeButton.textContent = "Close";
+                  closeButton.addEventListener("click", function () {
+                    dialog.close();
+                  });
+
+                  dialog.appendChild(closeButton);
+                  dialog.showModal();
+                });
+              }
+            } else {
+              td.style.cursor = "default";
+            }
+          });
         } else {
-          // If no events for the current day, set the cursor to default
-          td.style.cursor = "default";
+          console.error('No events found or invalid data format.');
         }
-      });
-    } catch (error) {
-      console.error("Error parsing JSON:", error);
-    }
-  });
+      } catch (error) {
+        console.error("Error:", error);
+      }
+    })
+    .catch(error => {
+      console.error('Error:', error);
+    });
+});
 </script>
-
 
 
   <script>
@@ -285,12 +294,12 @@
 <input id="day" type="hidden" value="{{day}}" />
 <input id="month" type="hidden" value="{{month}}" />
 <input id="year" type="hidden" value="{{year}}" />
-<input id="events" type="hidden" value="{{events}}" />
 <div class="pagination">
   <div class="pagination_buttons">
     <button id="previous" onclick="changeMonth(-1)">Previous Month</button>
     <button id="next_button" onclick="changeMonth(1)">Next Month</button>
   </div>
+  <br>
   <div class="calendar-container">{{calendar|safe}}</div>
 </div>
 
