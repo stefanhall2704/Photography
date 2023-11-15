@@ -23,6 +23,7 @@ sqlparse = "==0.4.4"
 typing-extensions = "==4.6.3"
 urllib3 = "==2.0.2"
 wrapt = "==1.15.0"
+google-api-python-client = "*"
 
 [dev-packages]
 

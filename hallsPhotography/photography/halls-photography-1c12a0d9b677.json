@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "halls-photography",
+  "private_key_id": "1c12a0d9b6775145778915ba3298e39a36b2e224",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrDyTla+uIIvNZ\n8rtPz5PrQJ1uafBj7ir193Iz0pB3shvgEg120so7fQ1+rwmUMV5Ex+sjeZJwE2aY\nZZOlA0wbK7AqSYJlYyF7BUF6yFV1jzWdoQCuALO3GBjZ8nwW+wLTqmCCLviJRYCD\nqWWtI61yy+LbZ954UBKGopCX4e2HDO0N9MIx6AN7xSMathyZFiSWcPcsB2N0jASX\nYGqd+k/Y5Rsss8I8/V28AlEy+KQUb/l6UofLbpOz9NlJTt7r71T1W88SjS/wKO5I\nLZOG9h52A/mlVhibMvb8/LWmGPPU7W5WKp1/fGOst85FQUHODLfdmJlOiR3jnYju\nXt4iuDRXAgMBAAECggEAB0FMxulwdrh7KpUS8+wEuA7OuCbu6frpM4yoX7sa7+V/\nLSrwcabrEOIMhBNkcp0AniYxVBkNG74wgcVjh7VZSv9SKQwvgNSKUC9rrlhE16GY\ngo3LlS9OcAH21XeYliW7SI+9woe/eGll0/yHskCeU9ocTkLCusbN1YwB848pH3f1\n258qQHX3QcZU9VrN1xsPXpf7at6DHBuYY1C4RcP69sFwNzulDxUThDynElAWsIPY\ns6bHE0vFnYSLWa8FXrgq7khQ2ZU6ucMtyhA5YFL5pZvpumeJDwY6deaH+Hl/VRnh\nXTpk1wUdq8sbIydom23E4DXjzJ71zhO/Xm7MAz6r8QKBgQDkwG9caZR+ROVrSzK4\niHgUzIWPUXOCSu0qooLO2fTV2tSdikoWk+Z+crUqvJFqn/ZcgFF2E6gsM2lX+tBh\nGZej2HErgyY7eqEk/Fv4C9i6TFxlAj0E9JsGExcLeyP9ZGyYvnE6yL6BGQEaAO6a\nMnfBFlpnQrVUJc0YicMVCDAmvQKBgQC/b24W8WHzY6wTIOoQX4TkpPSKeoF/lydx\n1kKf2Nl1nUk1VGYbZwXoVqidElAk4S1Hje1d2+kY4K6k33Ykb27u44QL04L/mpmf\nCXgQgeXW5t4gtbI7iJkOjs+4VQpGGxINC4i2wzwI4V/JdnLNEgYue2SU6gMWh9kl\nvSf+aDNSowKBgQCIOkXXfhTtwa/y3rydAsCoekhL2pD0lhR5oIBQGaLiPMkD7RhE\nK95HjZ5wjg33tr2rxss8i2ZKtG9W8spoGSqia8KxzA/Xuib/dL58kOmHwPQBP30B\nV35+9p1xu+rp+4VkzX13KZeyICb0yntOHyIMPnimKCb+ruheZaRlARRT7QKBgQCb\nbASda+xyhoG2JgrisCpc1/ASXdO1myrTKXl9/bjP3JsLSTJ9HO+W6oSKwct/pbH1\nXi1Q/rIJGKGyChsJCc+u89jJIThB/WqrzCxGeq/4Aghl1h6WZxic0SWkKqbktCW7\noZmliGy9aP0zu48JH5EVO+k1XaiUKkcKdMB7tG22sQKBgBB+fPMXwsqW7eIJ/jnA\npozQX8wgPaLyKSBJx7ZK5Y8RX6lZ2d3e2HaY/yUxdC0Wtzf/XIwI5fTok+AsheS4\np/8pO2gv7nyzm/WrjAtXbTCSOrmfOr0vzI9b0So1QzZ9/piDjRTxPKxbOXQCk9p8\nVpRdI1WepTM1RDdG4p9qTk1n\n-----END PRIVATE KEY-----\n",
+  "client_email": "local-service-account@halls-photography.iam.gserviceaccount.com",
+  "client_id": "114648362967220612676",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/local-service-account%40halls-photography.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

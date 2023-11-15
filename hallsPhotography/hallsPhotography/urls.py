@@ -17,6 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from photography import views
+from photography import google_calendar
 
 urlpatterns = [
     path("admin", admin.site.urls),
@@ -30,6 +31,9 @@ urlpatterns = [
     path("download/", views.download, name="download"),
     path("upload/", views.upload, name="upload"),
     path("packages/create/", views.create_package, name="create_package"),
+    path("schedule/", views.schedule_session, name="schedule_session"),
+    path("schedule/<int:year>/<int:month>", views.schedule_session, name="schedule_session"),
+    path('get-events/', google_calendar.get_google_calendar_events, name='get_events'),
 ]
 # path("admin", admin.site.urls),
 # path("o/", include('oauth2_provider.urls', namespace='oauth2_provider')),
